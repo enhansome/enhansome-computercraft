@@ -1,0 +1,744 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Mods"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "sc-peripherals",
+          "description": "A mod that adds 3D printers which allow creating custom blocks and posters.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Kotlin",
+            "last_commit": "2024-04-07T17:29:52Z",
+            "owner": "SwitchCraftCC",
+            "repo": "sc-peripherals",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Roadworks",
+          "description": "A mod that adds traffic lights controllable by ComputerCraft.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2025-02-21T02:34:23Z",
+            "owner": "znepb",
+            "repo": "roadworks",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Plethora",
+          "description": "A mod which adds peripherals and allows many blocks to be accessed as such. In addition, it also allows for manipulation of the player as a peripheral.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Plethora Fabric",
+              "description": "A 1.19+ port of Plethora to Fabric.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Kotlin",
+                "last_commit": "2026-03-17T20:37:53Z",
+                "owner": "SwitchCraftCC",
+                "repo": "Plethora-Fabric",
+                "stars": 16
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Add-on mods"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Lua programs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mildly Better Shell (MBS)",
+          "description": "An improved shell that includes scrollback and improved resolution of completions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2023-12-08T09:46:03Z",
+            "owner": "SquidDev-CC",
+            "repo": "mbs",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Artist",
+          "description": "One of the first item management systems for ComputerCraft.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-01-10T15:12:45Z",
+            "owner": "SquidDev-CC",
+            "repo": "artist",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CCVim",
+          "description": "A faithful port of Vim for ComputerCraft.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-06-01T08:30:24Z",
+            "owner": "Minater247",
+            "repo": "CCVim",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MISC",
+          "description": "Modular Inventory Storage and Crafting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-02-08T21:36:38Z",
+            "owner": "Storehaus",
+            "repo": "CC-MISC",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A command-line program for moving items between containers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-07-25T23:09:37Z",
+            "owner": "umnikos",
+            "repo": "hopper.lua",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Howl",
+          "description": "A build system for CC and CC:T.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Lua",
+            "last_commit": "2019-05-18T11:15:30Z",
+            "owner": "SquidDev-CC",
+            "repo": "Howl",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "netshell",
+          "description": "Access a computer's shell from another computer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-05-30T20:04:17Z",
+            "owner": "lyqyd",
+            "repo": "cc-netshell",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OrangeBox",
+          "description": "Virtualization support for ComputerCraft computers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2023-01-17T17:47:37Z",
+            "owner": "walksanatora",
+            "repo": "orangebox",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GEMU",
+          "description": "CraftOS-PC graphics mode emulator based on Pixelbox.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2022-08-24T00:59:58Z",
+            "owner": "9551-Dev",
+            "repo": "GEMU",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Consult",
+          "description": "A text editor emphasizing ease of use and compatibility with many systems.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Consult: Recrafted",
+              "description": "A fork of Consult for Recrafted systems.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Lua",
+                "last_commit": "2022-08-31T06:32:34Z",
+                "owner": "manaphoenix",
+                "repo": "CONSULT_RECRAFTED",
+                "stars": 1
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Utility"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A very fast and flexible teletext 2D rendering library for ComputerCraft.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-03-15T21:17:54Z",
+            "owner": "9551-Dev",
+            "repo": "pixelbox_lite",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Milo",
+          "description": "A crafting and inventory management system. Note that this depends on OpusOS and Plethora.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2023-09-16T17:46:51Z",
+            "owner": "kepler155c",
+            "repo": "opus-apps",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ecnet",
+          "description": "Secure network communications in ComputerCraft.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-03-21T22:20:31Z",
+            "owner": "migeyel",
+            "repo": "ecnet",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pine3D",
+          "description": "A 3D rendering engine designed to be fast.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-11-12T00:33:04Z",
+            "owner": "Xella37",
+            "repo": "Pine3D",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Luz",
+          "description": "An extremely light compression algorithm for Lua files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-04-01T21:02:36Z",
+            "owner": "MCJack123",
+            "repo": "Luz",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PngLua",
+          "description": "PNG parsing library designed for ComputerCraft.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-09-01T19:03:11Z",
+            "owner": "9551-Dev",
+            "repo": "pngLua",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CC-Archive",
+          "description": "Various libraries for archiving and unarchiving files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-02-07T18:32:26Z",
+            "owner": "MCJack123",
+            "repo": "CC-Archive",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tampl",
+          "description": "A Lua tokenization and parsing library designed for dynamic code generation and injecting code into existing programs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-09-03T07:56:12Z",
+            "owner": "9551-Dev",
+            "repo": "tampl",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IsometriH",
+          "description": "An isometric rendering engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2023-08-29T12:37:49Z",
+            "owner": "9551-Dev",
+            "repo": "IsometriH",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Acidity",
+          "description": "A simple procedual world generation-oriented noise generation library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2023-10-07T22:24:51Z",
+            "owner": "9551-Dev",
+            "repo": "acidity",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tamperer",
+          "description": "A library allowing easy creation of settings menus.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-02-19T04:09:44Z",
+            "owner": "Fatboychummy-CC",
+            "repo": "Tamperer",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Library"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AUKit austream",
+          "description": "Based on AUKit, a simple audio player supporting WAV, DFPWM, AIFF, AU, and FLAC.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-04-10T18:18:43Z",
+            "owner": "MCJack123",
+            "repo": "AUKit",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CCDoom",
+          "description": "The Doom shooter ported to ComputerCraft using Pine3D.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2023-10-19T18:54:45Z",
+            "owner": "Xella37",
+            "repo": "CCDoom",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lunatic86",
+          "description": "A port of an 8086 PC emulator for ComputerCraft.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2021-02-01T19:58:14Z",
+            "owner": "MCJack123",
+            "repo": "lunatic86",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Musicify",
+          "description": "A lightweight client for playing music on ComputerCraft: Tweaked.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "tracc",
+              "description": "An XM module tracker/player for ComputerCraft, supporting 8 channel polyphony in-game.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Lua",
+                "last_commit": "2026-07-27T00:52:37Z",
+                "owner": "MCJack123",
+                "repo": "tracc",
+                "stars": 11
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-07-07T11:05:18Z",
+            "owner": "knijn",
+            "repo": "musicify",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CC-Minecraft",
+          "description": "Minecraft ported to ComputerCraft using Pine3D.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2023-10-19T18:55:45Z",
+            "owner": "Xella37",
+            "repo": "CC-Minecraft",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LuaGB",
+          "description": "A port of a Game Boy (Color) emulator for ComputerCraft. Works best in CraftOS-PC.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-02-02T00:39:03Z",
+            "owner": "MCJack123",
+            "repo": "LuaGB",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Fun"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Opus",
+          "description": "An OS which includes a GUI, an app store, and many system-related APIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2023-12-17T15:14:42Z",
+            "owner": "kepler155c",
+            "repo": "opus",
+            "stars": 198
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Recrafted",
+          "description": "A rewrite of CraftOS aiming for full feature parity while maintaining \"saner API design.\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-03-20T12:34:24Z",
+            "owner": "Ocawesome101",
+            "repo": "recrafted",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cOS",
+          "description": "The NixOS inspired configurable ComputerCraft OS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-04-26T13:07:38Z",
+            "owner": "knijn",
+            "repo": "cos",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Operating systems"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Radon",
+          "description": "A highly configurable Krist shop, supporting categories, nameless shops, and support for multiple currencies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-03-02T18:52:28Z",
+            "owner": "Allymonies",
+            "repo": "Radon",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LP",
+          "description": "A Krist shop which dynamically adjusts buy and sell prices based on supply and demand.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-09-27T20:38:26Z",
+            "owner": "migeyel",
+            "repo": "lp",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "msks",
+          "description": "A modern, simple shop for the Krist virtual currency.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2023-01-05T21:42:48Z",
+            "owner": "ShrekshellraiserCC",
+            "repo": "msks",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A Krist store which sells colorful blocks, coloring them on demand.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-09-28T05:32:19Z",
+            "owner": "znepb",
+            "repo": "colorful",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "printshop",
+          "description": "A Krist shop which sells 3D prints and posters, also allowing players to print their own designs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-09-28T05:43:46Z",
+            "owner": "znepb",
+            "repo": "printshop",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Economy"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Non-Lua programs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A template for the TypeScriptToLua compiler that allows writing ComputerCraft programs in TypeScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-15T15:21:58Z",
+            "owner": "MCJack123",
+            "repo": "cc-tstl-template",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sanjuuni",
+          "description": "A program to quickly convert image and video files into various formats for playback and streaming in ComputerCraft.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-04T17:56:41Z",
+            "owner": "MCJack123",
+            "repo": "sanjuuni",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BIMG-Generator",
+          "description": "A Java program to convert images to the BIMG format.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-02-18T07:27:29Z",
+            "owner": "ShrekshellraiserCC",
+            "repo": "BIMG-Generator",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Literature"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tutorials"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Lua",
+          "description": "An Awesome list specific to the Lua programming language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-11T17:32:00Z",
+            "owner": "LewisJEllis",
+            "repo": "awesome-lua",
+            "stars": 4550
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hengestone's list of languages which compile to Lua",
+          "description": "A list of languages which compile to Lua.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-12-11T04:14:54Z",
+            "owner": "hengestone",
+            "repo": "lua-languages",
+            "stars": 691
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome CC: Tweaked",
+          "description": "An Awesome list which only lists things relevant to CC: Tweaked.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-12T14:52:19Z",
+            "owner": "Shlomo1412",
+            "repo": "awesome-cctweaked",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome SwitchCraft",
+          "description": "An Awesome list specific to the SwitchCraft server.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2025-04-25T02:08:03Z",
+            "owner": "aspen-reeves",
+            "repo": "awesome-switchcraft",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Other lists"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T15:33:54.544Z",
+    "original_repository": "tomodachi94/awesome-computercraft",
+    "original_repository_sha": "bdefad4c76cb2be7dd88389a67045dab5c60b5d8",
+    "enhanced_repository": "enhansome/enhansome-computercraft",
+    "enhanced_repository_description": null,
+    "title": "Awesome ComputerCraft with stars"
+  }
+}
