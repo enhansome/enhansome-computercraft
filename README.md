@@ -16,9 +16,9 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 
 **ComputerCraft** is a mod for Minecraft which adds computers which are programmable with the Lua programming language. **ComputerCraft: Tweaked** is a fork of the mod for newer Minecraft versions.
 
-This project lives [on GitHub](https://github.com/tomodachi94/awesome-computercraft) ⭐ 317 | 🐛 4 | 🌐 Just | 📅 2026-08-02 and might not render correctly on third-party websites.
+This project lives [on GitHub](https://github.com/tomodachi94/awesome-computercraft) ⭐ 318 | 🐛 4 | 🌐 Just | 📅 2026-08-02 and might not render correctly on third-party websites.
 
-If you think something should be added to the list, please [reach out](https://github.com/tomodachi94/awesome-computercraft/issues/new/choose) ⭐ 317 | 🐛 4 | 🌐 Just | 📅 2026-08-02.
+If you think something should be added to the list, please [reach out](https://github.com/tomodachi94/awesome-computercraft/issues/new/choose) ⭐ 318 | 🐛 4 | 🌐 Just | 📅 2026-08-02.
 
 If you want to contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md).
 If you have other questions, see the [FAQ](./FAQ.md).
@@ -139,7 +139,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 ### Fun
 
-* [AUKit austream](https://github.com/MCJack123/AUKit/blob/master/austream.lua) ⭐ 42 | 🐛 2 | 🌐 Lua | 📅 2026-04-10 -  Based on AUKit, a simple audio player supporting WAV, DFPWM, AIFF, AU, and FLAC.
+* [AUKit austream](https://github.com/MCJack123/AUKit/blob/master/austream.lua) ⭐ 43 | 🐛 2 | 🌐 Lua | 📅 2026-04-10 -  Based on AUKit, a simple audio player supporting WAV, DFPWM, AIFF, AU, and FLAC.
 * [CCDoom](https://github.com/Xella37/CCDoom) ⭐ 24 | 🐛 0 | 🌐 Lua | 📅 2023-10-19 - The [*Doom* shooter](https://en.wikipedia.org/wiki/Doom_\(1993_video_game\)) ported to ComputerCraft using Pine3D.
 * [lunatic86](https://github.com/MCJack123/lunatic86) ⭐ 19 | 🐛 0 | 🌐 Lua | 📅 2021-02-01 -  A port of an 8086 PC emulator for ComputerCraft.
 * [Musicify](https://github.com/knijn/musicify) ⭐ 13 | 🐛 9 | 🌐 Lua | 📅 2025-07-07 -  A lightweight client for playing music on ComputerCraft: Tweaked.
@@ -256,7 +256,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 * [Awesome Lua](https://github.com/LewisJEllis/awesome-lua) ⭐ 4,550 | 🐛 47 | 📅 2024-08-11 - An Awesome list specific to the Lua programming language.
 * [Hengestone's list of languages which compile to Lua](https://github.com/hengestone/lua-languages/blob/master/README.md) ⭐ 691 | 🐛 0 | 📅 2025-12-11 -  A list of languages which compile to Lua.
-* [Awesome CC: Tweaked](https://github.com/Shlomo1412/awesome-cctweaked) ⭐ 28 | 🐛 0 | 📅 2026-08-12 - An Awesome list which only lists things relevant to CC: Tweaked.
+* [Awesome CC: Tweaked](https://github.com/Shlomo1412/awesome-cctweaked) ⭐ 29 | 🐛 0 | 📅 2026-08-12 - An Awesome list which only lists things relevant to CC: Tweaked.
 * [Awesome SwitchCraft](https://github.com/aspen-reeves/awesome-switchcraft) ⚠️ Archived - An Awesome list specific to the SwitchCraft server.
 
 ## Resources
@@ -275,4 +275,4 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
