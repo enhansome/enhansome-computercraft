@@ -79,7 +79,7 @@
             "last_commit": "2023-12-08T09:46:03Z",
             "owner": "SquidDev-CC",
             "repo": "mbs",
-            "stars": 84
+            "stars": 83
           }
         },
         {
@@ -104,7 +104,7 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-06-01T08:30:24Z",
+            "last_commit": "2026-08-17T06:12:36Z",
             "owner": "Minater247",
             "repo": "CCVim",
             "stars": 31
@@ -698,7 +698,7 @@
             "last_commit": "2025-12-11T04:14:54Z",
             "owner": "hengestone",
             "repo": "lua-languages",
-            "stars": 691
+            "stars": 690
           }
         },
         {
@@ -734,7 +734,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T14:54:54.984Z",
+    "last_updated": "2026-08-17T14:57:13.084Z",
     "original_repository": "tomodachi94/awesome-computercraft",
     "original_repository_sha": "bdefad4c76cb2be7dd88389a67045dab5c60b5d8",
     "enhanced_repository": "enhansome/enhansome-computercraft",

@@ -87,9 +87,9 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 ### Utility
 
-* [Mildly Better Shell (MBS)](https://github.com/SquidDev-CC/mbs) ⭐ 84 | 🐛 6 | 🌐 Lua | 📅 2023-12-08 -  An improved shell that includes scrollback and improved resolution of completions.
+* [Mildly Better Shell (MBS)](https://github.com/SquidDev-CC/mbs) ⭐ 83 | 🐛 6 | 🌐 Lua | 📅 2023-12-08 -  An improved shell that includes scrollback and improved resolution of completions.
 * [Artist](https://github.com/SquidDev-CC/artist) ⭐ 64 | 🐛 8 | 🌐 Lua | 📅 2025-01-10 -  One of the first item management systems for ComputerCraft.
-* [CCVim](https://github.com/Minater247/CCVim/tree/rewrite-2026) ⭐ 31 | 🐛 2 | 🌐 Lua | 📅 2026-06-01 - A faithful port of Vim for ComputerCraft.
+* [CCVim](https://github.com/Minater247/CCVim/tree/rewrite-2026) ⭐ 31 | 🐛 2 | 🌐 Lua | 📅 2026-08-17 - A faithful port of Vim for ComputerCraft.
 * [MISC](https://github.com/Storehaus/CC-MISC) ⭐ 26 | 🐛 10 | 🌐 Lua | 📅 2026-02-08 -  Modular Inventory Storage and Crafting.
 * [`hopper.lua`](https://github.com/umnikos/hopper.lua) ⭐ 25 | 🐛 0 | 🌐 Lua | 📅 2026-07-25 - A command-line program for moving items between containers.
 * [Howl](https://github.com/SquidDev-CC/Howl) ⚠️ Archived -  A build system for CC and CC:T.
@@ -177,7 +177,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 * [DraconicControl](https://pastebin.com/UqVHTht5) -  Allows controlling Draconic Evolution's Draconic Reactor from a computer.
 * [ReactorControl and TurbineControl](https://pastebin.com/p4zeq7Ma) -  Automatic management of reactors and turbines in Big Reactors.
   * [ReactorControl patched](https://pastebin.com/2ZrbnH5w) -  The preceeding program uses the `parallel` API recursively, which could cause it to break. A patch has been developed to fix this.
-* [`cc-mek-scada`](https://github.com/MikaylaFischler/cc-mek-scada) ⭐ 571 | 🐛 14 | 🌐 Lua | 📅 2026-08-15 - Configurable control system for Mekanism fission reactors.
+* [`cc-mek-scada`](https://github.com/MikaylaFischler/cc-mek-scada) ⭐ 572 | 🐛 14 | 🌐 Lua | 📅 2026-08-16 - Configurable control system for Mekanism fission reactors.
 * [`shrekflight`](https://p.sc3.io/t6ZRrJutrN) - A program which provides Creative Mode-like flight and automatic flight to specified coordinates.
 
 ## Non-Lua programs
@@ -255,7 +255,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 ### Other lists
 
 * [Awesome Lua](https://github.com/LewisJEllis/awesome-lua) ⭐ 4,552 | 🐛 47 | 📅 2024-08-11 - An Awesome list specific to the Lua programming language.
-* [Hengestone's list of languages which compile to Lua](https://github.com/hengestone/lua-languages/blob/master/README.md) ⭐ 691 | 🐛 0 | 📅 2025-12-11 -  A list of languages which compile to Lua.
+* [Hengestone's list of languages which compile to Lua](https://github.com/hengestone/lua-languages/blob/master/README.md) ⭐ 690 | 🐛 0 | 📅 2025-12-11 -  A list of languages which compile to Lua.
 * [Awesome CC: Tweaked](https://github.com/Shlomo1412/awesome-cctweaked) ⭐ 29 | 🐛 0 | 📅 2026-08-12 - An Awesome list which only lists things relevant to CC: Tweaked.
 * [Awesome SwitchCraft](https://github.com/aspen-reeves/awesome-switchcraft) ⚠️ Archived - An Awesome list specific to the SwitchCraft server.
 
@@ -275,4 +275,4 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
