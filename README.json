@@ -104,7 +104,7 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-08-17T06:12:36Z",
+            "last_commit": "2026-08-17T19:21:03Z",
             "owner": "Minater247",
             "repo": "CCVim",
             "stars": 31
@@ -436,7 +436,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Lua",
-                "last_commit": "2026-07-27T00:52:37Z",
+                "last_commit": "2026-08-18T00:11:10Z",
                 "owner": "MCJack123",
                 "repo": "tracc",
                 "stars": 11
@@ -684,7 +684,7 @@
             "last_commit": "2024-08-11T17:32:00Z",
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4552
+            "stars": 4553
           }
         },
         {
@@ -734,7 +734,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T14:57:13.084Z",
+    "last_updated": "2026-08-18T15:04:56.818Z",
     "original_repository": "tomodachi94/awesome-computercraft",
     "original_repository_sha": "bdefad4c76cb2be7dd88389a67045dab5c60b5d8",
     "enhanced_repository": "enhansome/enhansome-computercraft",
