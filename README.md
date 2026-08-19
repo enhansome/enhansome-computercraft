@@ -190,7 +190,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 <!-- vale Google.WordList = NO -->
 
-* [Cloud Catcher](https://github.com/SquidDev-CC/cloud-catcher) ⭐ 85 | 🐛 10 | 🌐 TypeScript | 📅 2024-12-08 -  A program which enables interaction with computers outside of the game.
+* [Cloud Catcher](https://github.com/SquidDev-CC/cloud-catcher) ⭐ 85 | 🐛 11 | 🌐 TypeScript | 📅 2024-12-08 -  A program which enables interaction with computers outside of the game.
 
 <!-- vale Google.WordList = YES -->
 
@@ -254,9 +254,9 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 ### Other lists
 
-* [Awesome Lua](https://github.com/LewisJEllis/awesome-lua) ⭐ 4,553 | 🐛 47 | 📅 2024-08-11 - An Awesome list specific to the Lua programming language.
+* [Awesome Lua](https://github.com/LewisJEllis/awesome-lua) ⭐ 4,554 | 🐛 47 | 📅 2024-08-11 - An Awesome list specific to the Lua programming language.
 * [Hengestone's list of languages which compile to Lua](https://github.com/hengestone/lua-languages/blob/master/README.md) ⭐ 690 | 🐛 0 | 📅 2025-12-11 -  A list of languages which compile to Lua.
-* [Awesome CC: Tweaked](https://github.com/Shlomo1412/awesome-cctweaked) ⭐ 29 | 🐛 0 | 📅 2026-08-12 - An Awesome list which only lists things relevant to CC: Tweaked.
+* [Awesome CC: Tweaked](https://github.com/Shlomo1412/awesome-cctweaked) ⭐ 29 | 🐛 0 | 📅 2026-08-18 - An Awesome list which only lists things relevant to CC: Tweaked.
 * [Awesome SwitchCraft](https://github.com/aspen-reeves/awesome-switchcraft) ⚠️ Archived - An Awesome list specific to the SwitchCraft server.
 
 ## Resources
@@ -275,4 +275,4 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
