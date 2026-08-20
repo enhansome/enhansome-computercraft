@@ -110,7 +110,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 ### Library
 
-* [`Pixelbox Lite`](https://github.com/9551-Dev/pixelbox_lite) ⭐ 51 | 🐛 0 | 🌐 Lua | 📅 2025-03-15 - A very fast and flexible teletext 2D rendering library for ComputerCraft.
+* [`Pixelbox Lite`](https://github.com/9551-Dev/pixelbox_lite) ⭐ 52 | 🐛 0 | 🌐 Lua | 📅 2025-03-15 - A very fast and flexible teletext 2D rendering library for ComputerCraft.
 * [Milo](https://github.com/kepler155c/opus-apps/wiki/Milo-\(crafting---storage-system\)) ⭐ 42 | 🐛 11 | 🌐 Lua | 📅 2023-09-16 -  A crafting and inventory management system. Note that this depends on OpusOS and Plethora.
 * [ecnet](https://github.com/migeyel/ecnet) ⭐ 35 | 🐛 0 | 🌐 Lua | 📅 2026-03-21 -  Secure network communications in ComputerCraft.
 * [Pine3D](https://github.com/Xella37/Pine3D) ⭐ 31 | 🐛 0 | 🌐 Lua | 📅 2024-11-12 - A 3D rendering engine designed to be fast.
@@ -254,9 +254,9 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 ### Other lists
 
-* [Awesome Lua](https://github.com/LewisJEllis/awesome-lua) ⭐ 4,554 | 🐛 47 | 📅 2024-08-11 - An Awesome list specific to the Lua programming language.
+* [Awesome Lua](https://github.com/LewisJEllis/awesome-lua) ⭐ 4,555 | 🐛 47 | 📅 2024-08-11 - An Awesome list specific to the Lua programming language.
 * [Hengestone's list of languages which compile to Lua](https://github.com/hengestone/lua-languages/blob/master/README.md) ⭐ 690 | 🐛 0 | 📅 2025-12-11 -  A list of languages which compile to Lua.
-* [Awesome CC: Tweaked](https://github.com/Shlomo1412/awesome-cctweaked) ⭐ 29 | 🐛 0 | 📅 2026-08-18 - An Awesome list which only lists things relevant to CC: Tweaked.
+* [Awesome CC: Tweaked](https://github.com/Shlomo1412/awesome-cctweaked) ⭐ 29 | 🐛 0 | 📅 2026-08-19 - An Awesome list which only lists things relevant to CC: Tweaked.
 * [Awesome SwitchCraft](https://github.com/aspen-reeves/awesome-switchcraft) ⚠️ Archived - An Awesome list specific to the SwitchCraft server.
 
 ## Resources
@@ -275,4 +275,4 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._

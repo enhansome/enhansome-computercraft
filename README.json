@@ -246,7 +246,7 @@
                 "last_commit": "2025-03-15T21:17:54Z",
                 "owner": "9551-Dev",
                 "repo": "pixelbox_lite",
-                "stars": 51
+                "stars": 52
               }
             },
             {
@@ -797,7 +797,7 @@
                 "last_commit": "2024-08-11T17:32:00Z",
                 "owner": "LewisJEllis",
                 "repo": "awesome-lua",
-                "stars": 4554
+                "stars": 4555
               }
             },
             {
@@ -824,7 +824,7 @@
                 "archived": false,
                 "id": 1042076835,
                 "language": null,
-                "last_commit": "2026-08-18T17:05:18Z",
+                "last_commit": "2026-08-19T19:07:39Z",
                 "owner": "Shlomo1412",
                 "repo": "awesome-cctweaked",
                 "stars": 29
@@ -855,7 +855,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T15:05:05.333Z",
+    "last_updated": "2026-08-20T15:08:20.933Z",
     "original_repository": "tomodachi94/awesome-computercraft",
     "original_repository_id": 531244630,
     "original_repository_sha": "bdefad4c76cb2be7dd88389a67045dab5c60b5d8",
