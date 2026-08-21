@@ -113,7 +113,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 * [`Pixelbox Lite`](https://github.com/9551-Dev/pixelbox_lite) ⭐ 52 | 🐛 0 | 🌐 Lua | 📅 2025-03-15 - A very fast and flexible teletext 2D rendering library for ComputerCraft.
 * [Milo](https://github.com/kepler155c/opus-apps/wiki/Milo-\(crafting---storage-system\)) ⭐ 42 | 🐛 11 | 🌐 Lua | 📅 2023-09-16 -  A crafting and inventory management system. Note that this depends on OpusOS and Plethora.
 * [ecnet](https://github.com/migeyel/ecnet) ⭐ 35 | 🐛 0 | 🌐 Lua | 📅 2026-03-21 -  Secure network communications in ComputerCraft.
-* [Pine3D](https://github.com/Xella37/Pine3D) ⭐ 31 | 🐛 0 | 🌐 Lua | 📅 2024-11-12 - A 3D rendering engine designed to be fast.
+* [Pine3D](https://github.com/Xella37/Pine3D) ⭐ 32 | 🐛 0 | 🌐 Lua | 📅 2024-11-12 - A 3D rendering engine designed to be fast.
 * [Luz](https://github.com/MCJack123/Luz) ⭐ 15 | 🐛 0 | 🌐 Lua | 📅 2025-04-01 - An extremely light compression algorithm for Lua files.
 * [PngLua](https://github.com/9551-Dev/pngLua) ⭐ 15 | 🐛 0 | 🌐 Lua | 📅 2024-09-01 -  PNG parsing library designed for ComputerCraft.
 * [CC-Archive](https://github.com/MCJack123/CC-Archive) ⭐ 11 | 🐛 0 | 🌐 Lua | 📅 2026-02-07 -  Various libraries for archiving and unarchiving files.
@@ -275,4 +275,4 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
