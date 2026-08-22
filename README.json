@@ -117,6 +117,21 @@
             },
             {
               "node_type": "item",
+              "title": "",
+              "description": "A command-line program for moving items between containers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 683398803,
+                "language": "Lua",
+                "last_commit": "2026-07-25T23:09:37Z",
+                "owner": "umnikos",
+                "repo": "hopper.lua",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
               "title": "MISC",
               "description": "Modular Inventory Storage and Crafting.",
               "children": [],
@@ -128,21 +143,6 @@
                 "owner": "Storehaus",
                 "repo": "CC-MISC",
                 "stars": 26
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "",
-              "description": "A command-line program for moving items between containers.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 683398803,
-                "language": "Lua",
-                "last_commit": "2026-07-25T23:09:37Z",
-                "owner": "umnikos",
-                "repo": "hopper.lua",
-                "stars": 25
               }
             },
             {
@@ -531,7 +531,7 @@
                 "last_commit": "2023-12-17T15:14:42Z",
                 "owner": "kepler155c",
                 "repo": "opus",
-                "stars": 198
+                "stars": 199
               }
             },
             {
@@ -855,7 +855,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T15:06:30.538Z",
+    "last_updated": "2026-08-22T14:53:49.952Z",
     "original_repository": "tomodachi94/awesome-computercraft",
     "original_repository_id": 531244630,
     "original_repository_sha": "bdefad4c76cb2be7dd88389a67045dab5c60b5d8",
