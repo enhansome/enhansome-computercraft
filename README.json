@@ -109,7 +109,7 @@
                 "archived": false,
                 "id": 403425726,
                 "language": "Lua",
-                "last_commit": "2026-08-17T19:21:03Z",
+                "last_commit": "2026-08-24T06:45:27Z",
                 "owner": "Minater247",
                 "repo": "CCVim",
                 "stars": 31
@@ -117,7 +117,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "hopper.lua",
               "description": "A command-line program for moving items between containers.",
               "children": [],
               "repo_info": {
@@ -236,7 +236,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "",
+              "title": "pixelbox_lite",
               "description": "A very fast and flexible teletext 2D rendering library for ComputerCraft.",
               "children": [],
               "repo_info": {
@@ -618,7 +618,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "colorful",
               "description": "A Krist store which sells colorful blocks, coloring them on demand.",
               "children": [],
               "repo_info": {
@@ -650,6 +650,28 @@
           "description": null,
           "node_type": "group",
           "title": "Economy"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "cc-mek-scada",
+              "description": "Configurable control system for Mekanism fission reactors.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 442578034,
+                "language": "Lua",
+                "last_commit": "2026-08-16T18:07:25Z",
+                "owner": "MikaylaFischler",
+                "repo": "cc-mek-scada",
+                "stars": 571
+              }
+            }
+          ],
+          "description": "Note: This section contains programs which are exclusive to a mod and would not make sense in the Utilities section.",
+          "node_type": "group",
+          "title": "Mod-specific programs"
         }
       ],
       "title": "Lua programs"
@@ -659,6 +681,21 @@
       "items": [
         {
           "children": [
+            {
+              "node_type": "item",
+              "title": "Cloud Catcher",
+              "description": "A program which enables interaction with computers outside of the game.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 132143640,
+                "language": "TypeScript",
+                "last_commit": "2024-12-08T15:00:36Z",
+                "owner": "SquidDev-CC",
+                "repo": "cloud-catcher",
+                "stars": 85
+              }
+            },
             {
               "node_type": "item",
               "title": "Krist Server",
@@ -729,7 +766,51 @@
           "children": [
             {
               "node_type": "item",
-              "title": "",
+              "title": "Copy Cat",
+              "description": "A CC:T emulator that runs in a web browser.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 183762161,
+                "language": "TypeScript",
+                "last_commit": "2026-06-18T12:32:00Z",
+                "owner": "SquidDev-CC",
+                "repo": "copy-cat",
+                "stars": 50
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Emulators"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "craftos2-plugins",
+              "description": "A collection of small plugins for CraftOS-PC, maintained by the creator.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 349635470,
+                "language": "C++",
+                "last_commit": "2025-12-06T20:26:09Z",
+                "owner": "MCJack123",
+                "repo": "craftos2-plugins",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Plugins"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "cc-tstl-template",
               "description": "A template for the TypeScriptToLua compiler that allows writing ComputerCraft programs in TypeScript.",
               "children": [],
               "repo_info": {
@@ -855,7 +936,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T14:55:04.289Z",
+    "last_updated": "2026-08-24T14:31:00.889Z",
     "original_repository": "tomodachi94/awesome-computercraft",
     "original_repository_id": 531244630,
     "original_repository_sha": "bdefad4c76cb2be7dd88389a67045dab5c60b5d8",
