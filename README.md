@@ -89,7 +89,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 * [Mildly Better Shell (MBS)](https://github.com/SquidDev-CC/mbs) ⭐ 83 | 🐛 6 | 🌐 Lua | 📅 2023-12-08 -  An improved shell that includes scrollback and improved resolution of completions.
 * [Artist](https://github.com/SquidDev-CC/artist) ⭐ 64 | 🐛 8 | 🌐 Lua | 📅 2025-01-10 -  One of the first item management systems for ComputerCraft.
-* [CCVim](https://github.com/Minater247/CCVim/tree/rewrite-2026) ⭐ 31 | 🐛 2 | 🌐 Lua | 📅 2026-08-24 - A faithful port of Vim for ComputerCraft.
+* [CCVim](https://github.com/Minater247/CCVim/tree/rewrite-2026) ⭐ 31 | 🐛 2 | 🌐 Vim Script | 📅 2026-08-25 - A faithful port of Vim for ComputerCraft.
 * [`hopper.lua`](https://github.com/umnikos/hopper.lua) ⭐ 26 | 🐛 0 | 🌐 Lua | 📅 2026-07-25 - A command-line program for moving items between containers.
 * [MISC](https://github.com/Storehaus/CC-MISC) ⭐ 26 | 🐛 10 | 🌐 Lua | 📅 2026-02-08 -  Modular Inventory Storage and Crafting.
 * [Howl](https://github.com/SquidDev-CC/Howl) ⚠️ Archived -  A build system for CC and CC:T.
@@ -275,4 +275,4 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
