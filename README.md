@@ -90,7 +90,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 * [Mildly Better Shell (MBS)](https://github.com/SquidDev-CC/mbs) ⭐ 83 | 🐛 6 | 🌐 Lua | 📅 2023-12-08 -  An improved shell that includes scrollback and improved resolution of completions.
 * [Artist](https://github.com/SquidDev-CC/artist) ⭐ 64 | 🐛 8 | 🌐 Lua | 📅 2025-01-10 -  One of the first item management systems for ComputerCraft.
 * [CCVim](https://github.com/Minater247/CCVim/tree/rewrite-2026) ⭐ 31 | 🐛 2 | 🌐 Vim Script | 📅 2026-08-25 - A faithful port of Vim for ComputerCraft.
-* [`hopper.lua`](https://github.com/umnikos/hopper.lua) ⭐ 26 | 🐛 1 | 🌐 Lua | 📅 2026-07-25 - A command-line program for moving items between containers.
+* [`hopper.lua`](https://github.com/umnikos/hopper.lua) ⭐ 26 | 🐛 2 | 🌐 Lua | 📅 2026-07-25 - A command-line program for moving items between containers.
 * [MISC](https://github.com/Storehaus/CC-MISC) ⭐ 26 | 🐛 10 | 🌐 Lua | 📅 2026-02-08 -  Modular Inventory Storage and Crafting.
 * [Howl](https://github.com/SquidDev-CC/Howl) ⚠️ Archived -  A build system for CC and CC:T.
 * [netshell](https://github.com/lyqyd/cc-netshell) ⭐ 12 | 🐛 1 | 📅 2015-05-30 -  Access a computer's shell from another computer.
@@ -140,7 +140,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 ### Fun
 
 * [AUKit austream](https://github.com/MCJack123/AUKit/blob/master/austream.lua) ⭐ 43 | 🐛 2 | 🌐 Lua | 📅 2026-04-10 -  Based on AUKit, a simple audio player supporting WAV, DFPWM, AIFF, AU, and FLAC.
-* [CCDoom](https://github.com/Xella37/CCDoom) ⭐ 24 | 🐛 0 | 🌐 Lua | 📅 2023-10-19 - The [*Doom* shooter](https://en.wikipedia.org/wiki/Doom_\(1993_video_game\)) ported to ComputerCraft using Pine3D.
+* [CCDoom](https://github.com/Xella37/CCDoom) ⭐ 25 | 🐛 0 | 🌐 Lua | 📅 2023-10-19 - The [*Doom* shooter](https://en.wikipedia.org/wiki/Doom_\(1993_video_game\)) ported to ComputerCraft using Pine3D.
 * [lunatic86](https://github.com/MCJack123/lunatic86) ⭐ 19 | 🐛 0 | 🌐 Lua | 📅 2021-02-01 -  A port of an 8086 PC emulator for ComputerCraft.
 * [Musicify](https://github.com/knijn/musicify) ⭐ 13 | 🐛 9 | 🌐 Lua | 📅 2025-07-07 -  A lightweight client for playing music on ComputerCraft: Tweaked.
   * [tracc](https://github.com/MCJack123/tracc/tree/playAudio) ⭐ 11 | 🐛 0 | 🌐 Lua | 📅 2026-08-18 -  An XM module tracker/player for ComputerCraft, supporting 8 channel polyphony in-game.
@@ -254,7 +254,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 ### Other lists
 
-* [Awesome Lua](https://github.com/LewisJEllis/awesome-lua) ⭐ 4,555 | 🐛 47 | 📅 2024-08-11 - An Awesome list specific to the Lua programming language.
+* [Awesome Lua](https://github.com/LewisJEllis/awesome-lua) ⭐ 4,556 | 🐛 47 | 📅 2024-08-11 - An Awesome list specific to the Lua programming language.
 * [Hengestone's list of languages which compile to Lua](https://github.com/hengestone/lua-languages/blob/master/README.md) ⭐ 690 | 🐛 0 | 📅 2025-12-11 -  A list of languages which compile to Lua.
 * [Awesome CC: Tweaked](https://github.com/Shlomo1412/awesome-cctweaked) ⭐ 29 | 🐛 0 | 📅 2026-08-19 - An Awesome list which only lists things relevant to CC: Tweaked.
 * [Awesome SwitchCraft](https://github.com/aspen-reeves/awesome-switchcraft) ⚠️ Archived - An Awesome list specific to the SwitchCraft server.
@@ -275,4 +275,4 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
