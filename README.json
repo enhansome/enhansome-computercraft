@@ -109,7 +109,7 @@
                 "archived": false,
                 "id": 403425726,
                 "language": "Vim Script",
-                "last_commit": "2026-08-27T05:50:37Z",
+                "last_commit": "2026-08-27T20:54:39Z",
                 "owner": "Minater247",
                 "repo": "CCVim",
                 "stars": 31
@@ -878,7 +878,7 @@
                 "last_commit": "2024-08-11T17:32:00Z",
                 "owner": "LewisJEllis",
                 "repo": "awesome-lua",
-                "stars": 4556
+                "stars": 4557
               }
             },
             {
@@ -893,7 +893,7 @@
                 "last_commit": "2025-12-11T04:14:54Z",
                 "owner": "hengestone",
                 "repo": "lua-languages",
-                "stars": 690
+                "stars": 689
               }
             },
             {
@@ -936,7 +936,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:30:42.426Z",
+    "last_updated": "2026-08-27T23:56:42.127Z",
     "original_repository_info": {
       "archived": false,
       "id": 531244630,
