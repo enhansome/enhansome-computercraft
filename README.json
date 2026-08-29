@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Custom peripherals for the SwitchCraft server",
+                "homepage": null,
                 "id": 526790497,
                 "language": "Kotlin",
+                "license": "MIT",
                 "last_commit": "2024-04-07T17:29:52Z",
+                "open_issues": 6,
                 "owner": "SwitchCraftCC",
                 "repo": "sc-peripherals",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
             },
@@ -28,12 +33,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Immersive road systems",
+                "homepage": null,
                 "id": 674486233,
                 "language": "Kotlin",
+                "license": "MIT",
                 "last_commit": "2025-02-21T02:34:23Z",
+                "open_issues": 0,
                 "owner": "znepb",
                 "repo": "roadworks",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
             },
@@ -49,12 +59,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A peripheral provider for ComputerCraft, ported to Fabric",
+                    "homepage": null,
                     "id": 491699521,
                     "language": "Kotlin",
+                    "license": "MIT",
                     "last_commit": "2026-03-17T20:37:53Z",
+                    "open_issues": 34,
                     "owner": "SwitchCraftCC",
                     "repo": "Plethora-Fabric",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:36.875Z"
                 }
@@ -80,12 +95,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Mildly Better Shell for ComputerCraft",
+                "homepage": null,
                 "id": 115617171,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2023-12-08T09:46:03Z",
+                "open_issues": 6,
                 "owner": "SquidDev-CC",
                 "repo": "mbs",
-                "stars": 83
+                "stars": 83,
+                "topics": [
+                  "computercraft"
+                ]
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
             },
@@ -96,12 +118,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Rather Tremendous Item SysTem",
+                "homepage": null,
                 "id": 75980827,
                 "language": "Lua",
+                "license": "BSD-3-Clause",
                 "last_commit": "2025-01-10T15:12:45Z",
+                "open_issues": 8,
                 "owner": "SquidDev-CC",
                 "repo": "artist",
-                "stars": 64
+                "stars": 64,
+                "topics": [
+                  "computercraft",
+                  "plethora"
+                ]
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
             },
@@ -112,12 +142,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A newer Vim clone for ComputerCraft, made since I wanted some of the features the previous one didn't have.",
+                "homepage": null,
                 "id": 403425726,
                 "language": "Vim Script",
+                "license": null,
                 "last_commit": "2026-08-27T20:54:39Z",
+                "open_issues": 2,
                 "owner": "Minater247",
                 "repo": "CCVim",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
             },
@@ -128,12 +163,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "computercraft program: move items and fluids from A to B without any hassle ",
+                "homepage": null,
                 "id": 683398803,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2026-07-25T23:09:37Z",
+                "open_issues": 2,
                 "owner": "umnikos",
                 "repo": "hopper.lua",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "computercraft"
+                ]
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
             },
@@ -144,12 +186,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Modular Inventory Storage and Crafting",
+                "homepage": "https://misc.madefor.cc",
                 "id": 576359674,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2026-02-08T21:36:38Z",
+                "open_issues": 10,
                 "owner": "Storehaus",
                 "repo": "CC-MISC",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "computercraft",
+                  "lua",
+                  "minecraft"
+                ]
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
             },
@@ -160,12 +211,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A CC build system",
+                "homepage": "http://www.computercraft.info/forums2/index.php?/topic/21254-",
                 "id": 27634562,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2019-05-18T11:15:30Z",
+                "open_issues": 6,
                 "owner": "SquidDev-CC",
                 "repo": "Howl",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "build-automation",
+                  "build-system",
+                  "computercraft"
+                ]
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
             },
@@ -176,12 +236,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A remote shell program for ComputerCraft utilizing events transport from client to server and terminal redirection over rednet (TRoR) to transport the screen image to the client.",
+                "homepage": null,
                 "id": 6858692,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2015-05-30T20:04:17Z",
+                "open_issues": 1,
                 "owner": "lyqyd",
                 "repo": "cc-netshell",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
             },
@@ -192,12 +257,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A fork of yellowbox",
+                "homepage": null,
                 "id": 576828920,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2023-01-17T17:47:37Z",
+                "open_issues": 1,
                 "owner": "walksanatora",
                 "repo": "orangebox",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "computercraft",
+                  "lua"
+                ]
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
             },
@@ -208,12 +281,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pixelbox based graphics mode emulator",
+                "homepage": null,
                 "id": 522055460,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2022-08-24T00:59:58Z",
+                "open_issues": 0,
                 "owner": "9551-Dev",
                 "repo": "GEMU",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
             },
@@ -229,12 +307,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Lua editor that provides a modern user interface for Recrafted.",
+                    "homepage": "https://tweaked-programs.cc/tag/consult/",
                     "id": 529771361,
                     "language": "Lua",
+                    "license": "MIT",
                     "last_commit": "2022-08-31T06:32:34Z",
+                    "open_issues": 0,
                     "owner": "manaphoenix",
                     "repo": "CONSULT_RECRAFTED",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:36.875Z"
                 }
@@ -254,12 +337,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Very fast and modular teletext character renderer for Computercraft",
+                "homepage": "https://pixels.devvie.cc",
                 "id": 822831238,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2025-03-15T21:17:54Z",
+                "open_issues": 0,
                 "owner": "9551-Dev",
                 "repo": "pixelbox_lite",
-                "stars": 52
+                "stars": 52,
+                "topics": [
+                  "2d",
+                  "cctweaked",
+                  "characters",
+                  "computercraft",
+                  "lua",
+                  "modular",
+                  "pixelbox",
+                  "renderer",
+                  "teletext"
+                ]
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
             },
@@ -270,12 +368,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Computercraft Applications for Opus OS",
+                "homepage": null,
                 "id": 103607801,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2023-09-16T17:46:51Z",
+                "open_issues": 11,
                 "owner": "kepler155c",
                 "repo": "opus-apps",
-                "stars": 42
+                "stars": 42,
+                "topics": [
+                  "computercraft",
+                  "lua",
+                  "minecraft"
+                ]
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
             },
@@ -286,12 +393,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mid-level encrypted networking library for CC:Tweaked.",
+                "homepage": null,
                 "id": 247788019,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2026-03-21T22:20:31Z",
+                "open_issues": 0,
                 "owner": "migeyel",
                 "repo": "ecnet",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
             },
@@ -302,12 +414,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Most efficient 3d graphics library for ComputerCraft",
+                "homepage": null,
                 "id": 576922168,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2024-11-12T00:33:04Z",
+                "open_issues": 0,
                 "owner": "Xella37",
                 "repo": "Pine3D",
-                "stars": 32
+                "stars": 32,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
             },
@@ -318,12 +435,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An extremely light Lua compression algorithm.",
+                "homepage": null,
                 "id": 643602529,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2025-04-01T21:02:36Z",
+                "open_issues": 0,
                 "owner": "MCJack123",
                 "repo": "Luz",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "compression",
+                  "compression-algorithm",
+                  "lua"
+                ]
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
             },
@@ -334,12 +460,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A png decoder based on DelusionalLogic's but made a lot cleaner and compacted into a single file, designed for CC:T with a saner object system",
+                "homepage": null,
                 "id": 597762848,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2024-09-01T19:03:11Z",
+                "open_issues": 0,
                 "owner": "9551-Dev",
                 "repo": "pngLua",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
             },
@@ -350,12 +481,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Various archiving/compression programs and libraries for ComputerCraft",
+                "homepage": null,
                 "id": 233197493,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2026-02-07T18:32:26Z",
+                "open_issues": 0,
                 "owner": "MCJack123",
                 "repo": "CC-Archive",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
             },
@@ -366,12 +502,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lua code parsing,patching and injection library",
+                "homepage": null,
                 "id": 610035549,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2024-09-03T07:56:12Z",
+                "open_issues": 0,
                 "owner": "9551-Dev",
                 "repo": "tampl",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
             },
@@ -382,12 +523,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple isometric renderer for computercraft",
+                "homepage": null,
                 "id": 527522323,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2023-08-29T12:37:49Z",
+                "open_issues": 0,
                 "owner": "9551-Dev",
                 "repo": "IsometriH",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
             },
@@ -398,12 +544,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lua perlin noise library with octave support",
+                "homepage": null,
                 "id": 604785847,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2023-10-07T22:24:51Z",
+                "open_issues": 0,
                 "owner": "9551-Dev",
                 "repo": "acidity",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
             },
@@ -414,12 +565,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tamperer allows you to make quick settings menus with support for strings, numbers, booleans, and colors.  Supports subpages as well.",
+                "homepage": null,
                 "id": 230578585,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2026-02-19T04:09:44Z",
+                "open_issues": 0,
                 "owner": "Fatboychummy-CC",
                 "repo": "Tamperer",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
             }
@@ -437,12 +593,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AUKit: Audio decoding and processing framework for ComputerCraft",
+                "homepage": "https://mcjack123.github.io/AUKit/",
                 "id": 442928808,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2026-04-10T18:18:43Z",
+                "open_issues": 2,
                 "owner": "MCJack123",
                 "repo": "AUKit",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
             },
@@ -453,12 +614,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "All Doom files for ComputerCraft (Lua) - Updated version with commits",
+                "homepage": null,
                 "id": 122119639,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2023-10-19T18:54:45Z",
+                "open_issues": 0,
                 "owner": "Xella37",
                 "repo": "CCDoom",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
             },
@@ -469,12 +635,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "x86 emulator in Lua (ported to CraftOS-PC)",
+                "homepage": "https://git.asie.pl/asie/lunatic86",
                 "id": 193024670,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2021-02-01T19:58:14Z",
+                "open_issues": 0,
                 "owner": "MCJack123",
                 "repo": "lunatic86",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
             },
@@ -490,24 +661,40 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An XM module tracker for ComputerCraft/CraftOS-PC.",
+                    "homepage": null,
                     "id": 349938778,
                     "language": "Lua",
+                    "license": "MIT",
                     "last_commit": "2026-08-18T00:11:10Z",
+                    "open_issues": 0,
                     "owner": "MCJack123",
                     "repo": "tracc",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:36.875Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "Musicify is a command line tool to stream* songs for ComputerCraft:Tweaked",
+                "homepage": null,
                 "id": 325747600,
                 "language": "Lua",
+                "license": "GPL-3.0",
                 "last_commit": "2025-07-07T11:05:18Z",
+                "open_issues": 9,
                 "owner": "knijn",
                 "repo": "musicify",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "computercraft",
+                  "computronics",
+                  "dfpwm",
+                  "music",
+                  "speakers"
+                ]
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
             },
@@ -518,12 +705,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Minecraft game for CC to run in Minecraft!",
+                "homepage": null,
                 "id": 578201905,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2023-10-19T18:55:45Z",
+                "open_issues": 0,
                 "owner": "Xella37",
                 "repo": "CC-Minecraft",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
             },
@@ -534,12 +726,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A gameboy emulator written in pure Lua, for ComputerCraft. Work in progress.",
+                "homepage": null,
                 "id": 174085437,
                 "language": "Lua",
+                "license": "BSD-3-Clause",
                 "last_commit": "2025-02-02T00:39:03Z",
+                "open_issues": 0,
                 "owner": "MCJack123",
                 "repo": "LuaGB",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
             }
@@ -557,12 +754,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ComputerCraft OS",
+                "homepage": null,
                 "id": 76194362,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2023-12-17T15:14:42Z",
+                "open_issues": 10,
                 "owner": "kepler155c",
                 "repo": "opus",
-                "stars": 199
+                "stars": 199,
+                "topics": [
+                  "computercraft",
+                  "lua",
+                  "minecraft"
+                ]
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
             },
@@ -573,12 +779,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CraftOS, but with saner API design.",
+                "homepage": null,
                 "id": 495624956,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2026-03-20T12:34:24Z",
+                "open_issues": 4,
                 "owner": "Ocawesome101",
                 "repo": "recrafted",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
             },
@@ -589,12 +800,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "the configurable operating system",
+                "homepage": null,
                 "id": 791731411,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2024-04-26T13:07:38Z",
+                "open_issues": 0,
                 "owner": "knijn",
                 "repo": "cos",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
             }
@@ -612,12 +828,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A highly-configurable Krist shop",
+                "homepage": null,
                 "id": 581673499,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2024-03-02T18:52:28Z",
+                "open_issues": 10,
                 "owner": "Allymonies",
                 "repo": "Radon",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
             },
@@ -628,12 +849,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 588672142,
                 "language": "Lua",
+                "license": "GPL-3.0",
                 "last_commit": "2024-09-27T20:38:26Z",
+                "open_issues": 0,
                 "owner": "migeyel",
                 "repo": "lp",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
             },
@@ -644,12 +870,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Modern Simple Krist Shop",
+                "homepage": null,
                 "id": 543790662,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2023-01-05T21:42:48Z",
+                "open_issues": 3,
                 "owner": "ShrekshellraiserCC",
                 "repo": "msks",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
             },
@@ -660,12 +891,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 864388459,
                 "language": "Lua",
+                "license": "GPL-3.0",
                 "last_commit": "2024-09-28T05:32:19Z",
+                "open_issues": 0,
                 "owner": "znepb",
                 "repo": "colorful",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
             },
@@ -676,12 +912,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 864397887,
                 "language": "Lua",
+                "license": "GPL-3.0",
                 "last_commit": "2024-09-28T05:43:46Z",
+                "open_issues": 0,
                 "owner": "znepb",
                 "repo": "printshop",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
             }
@@ -699,12 +940,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Configurable ComputerCraft SCADA system for multi-reactor control of Mekanism fission reactors with a GUI, automatic safety features, waste processing control, and more! Please be sure to take a look at the Wiki tab, this project has lots of docs!",
+                "homepage": "https://www.youtube.com/@cc-mek-scada",
                 "id": 442578034,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2026-08-16T18:07:25Z",
+                "open_issues": 14,
                 "owner": "MikaylaFischler",
                 "repo": "cc-mek-scada",
-                "stars": 571
+                "stars": 571,
+                "topics": [
+                  "cc-tweaked",
+                  "comptuercraft",
+                  "mekanism",
+                  "minecraft",
+                  "scada"
+                ]
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
             }
@@ -728,12 +980,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A web interface for ComputerCraft",
+                "homepage": "https://cloud-catcher.squiddev.cc/",
                 "id": 132143640,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-12-08T15:00:36Z",
+                "open_issues": 11,
                 "owner": "SquidDev-CC",
                 "repo": "cloud-catcher",
-                "stars": 85
+                "stars": 85,
+                "topics": [
+                  "computercraft"
+                ]
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
             },
@@ -749,12 +1008,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "The fastest krist miner in existence, with both GPU and CPU support",
+                    "homepage": null,
                     "id": 128221436,
                     "language": "Rust",
+                    "license": "Apache-2.0",
                     "last_commit": "2022-02-19T20:36:31Z",
+                    "open_issues": 0,
                     "owner": "tmpim",
                     "repo": "kristforge",
-                    "stars": 20
+                    "stars": 20,
+                    "topics": [
+                      "cryptocurrency",
+                      "krist",
+                      "opencl"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:39:36.875Z"
                 },
@@ -765,24 +1033,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Web wallet for Krist written in React",
+                    "homepage": "https://krist.club",
                     "id": 238491025,
                     "language": "TypeScript",
+                    "license": "AGPL-3.0",
                     "last_commit": "2026-07-19T14:45:31Z",
+                    "open_issues": 10,
                     "owner": "tmpim",
                     "repo": "KristWeb2",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": [
+                      "krist"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:39:36.875Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "Krist is a centralized-database economy system for Minecraft servers. Krist does not use a block-chain, or any similar technology. Krist is not a \"cryptocurrency\".",
+                "homepage": "https://krist.dev/",
                 "id": 49363671,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-02-07T04:29:26Z",
+                "open_issues": 1,
                 "owner": "tmpim",
                 "repo": "Krist",
-                "stars": 32
+                "stars": 32,
+                "topics": [
+                  "krist"
+                ]
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
             },
@@ -793,12 +1075,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Websocket based file transfer system for ComputerCraft.",
+                "homepage": null,
                 "id": 683089828,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-07-14T01:56:06Z",
+                "open_issues": 0,
                 "owner": "tmpim",
                 "repo": "netmountcc",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
             }
@@ -816,12 +1103,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A ComputerCraft emulator for the web",
+                "homepage": "https://copy-cat.squiddev.cc/",
                 "id": 183762161,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-18T12:32:00Z",
+                "open_issues": 7,
                 "owner": "SquidDev-CC",
                 "repo": "copy-cat",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "computercraft",
+                  "emulator"
+                ]
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
             }
@@ -839,12 +1134,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Various plugins for CraftOS-PC.",
+                "homepage": null,
                 "id": 349635470,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2025-12-06T20:26:09Z",
+                "open_issues": 0,
                 "owner": "MCJack123",
                 "repo": "craftos2-plugins",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
             }
@@ -862,12 +1162,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Template project for ComputerCraft programs written in TypeScript.",
+                "homepage": null,
                 "id": 446020414,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-03-15T15:21:58Z",
+                "open_issues": 0,
                 "owner": "MCJack123",
                 "repo": "cc-tstl-template",
-                "stars": 76
+                "stars": 76,
+                "topics": [
+                  "computercraft",
+                  "typescript",
+                  "typescript-to-lua"
+                ]
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
             },
@@ -878,12 +1187,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Converts images and videos into a format that can be displayed in ComputerCraft.",
+                "homepage": null,
                 "id": 455023391,
                 "language": "C++",
+                "license": "GPL-2.0",
                 "last_commit": "2026-06-04T17:56:41Z",
+                "open_issues": 13,
                 "owner": "MCJack123",
                 "repo": "sanjuuni",
-                "stars": 65
+                "stars": 65,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
             },
@@ -894,12 +1208,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Java program to convert images to the BIMG blit format for CC",
+                "homepage": null,
                 "id": 499004364,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2025-02-18T07:27:29Z",
+                "open_issues": 2,
                 "owner": "ShrekshellraiserCC",
                 "repo": "BIMG-Generator",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "computercraft"
+                ]
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
             }
@@ -923,12 +1244,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of quality Lua packages and resources.",
+                "homepage": null,
                 "id": 23039606,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-08-11T17:32:00Z",
+                "open_issues": 48,
                 "owner": "LewisJEllis",
                 "repo": "awesome-lua",
-                "stars": 4559
+                "stars": 4559,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
             },
@@ -939,12 +1265,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Languages that compile to Lua",
+                "homepage": null,
                 "id": 94653215,
                 "language": null,
+                "license": "MPL-2.0",
                 "last_commit": "2025-12-11T04:14:54Z",
+                "open_issues": 1,
                 "owner": "hengestone",
                 "repo": "lua-languages",
-                "stars": 690
+                "stars": 690,
+                "topics": [
+                  "javascript-transpiler",
+                  "lisp",
+                  "lua",
+                  "lua-language"
+                ]
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
             },
@@ -955,12 +1291,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1042076835,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-08-19T19:07:39Z",
+                "open_issues": 0,
                 "owner": "Shlomo1412",
                 "repo": "awesome-cctweaked",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
             },
@@ -971,12 +1312,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Awesome programs and libraries for the SwitchCraft Minecraft server",
+                "homepage": null,
                 "id": 681394405,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2025-04-25T02:08:03Z",
+                "open_issues": 0,
                 "owner": "aspen-reeves",
                 "repo": "awesome-switchcraft",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
             }
@@ -990,15 +1336,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:39:36.875Z",
+    "last_updated": "2026-08-29T04:47:38.129Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Useful libraries, programs, literature, and mods for ComputerCraft and its forks.",
+      "homepage": null,
       "id": 531244630,
       "language": "Just",
+      "license": "CC-BY-SA-4.0",
       "last_commit": "2026-08-02T20:06:16Z",
+      "open_issues": 4,
       "owner": "tomodachi94",
       "repo": "awesome-computercraft",
-      "stars": 318
+      "stars": 318,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "computercraft",
+        "computercraft-tweaked",
+        "minecraft"
+      ]
     },
     "original_repository_sha": "bdefad4c76cb2be7dd88389a67045dab5c60b5d8",
     "enhanced_repository": "enhansome/enhansome-computercraft",
