@@ -168,8 +168,8 @@
                 "id": 683398803,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-07-25T23:09:37Z",
-                "open_issues": 2,
+                "last_commit": "2026-08-31T09:54:23Z",
+                "open_issues": 1,
                 "owner": "umnikos",
                 "repo": "hopper.lua",
                 "stars": 26,
@@ -1167,7 +1167,7 @@
                 "id": 446020414,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-03-15T15:21:58Z",
+                "last_commit": "2026-08-31T13:12:45Z",
                 "open_issues": 0,
                 "owner": "MCJack123",
                 "repo": "cc-tstl-template",
@@ -1253,7 +1253,7 @@
                 "open_issues": 48,
                 "owner": "LewisJEllis",
                 "repo": "awesome-lua",
-                "stars": 4561,
+                "stars": 4563,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
@@ -1336,7 +1336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T18:10:36.112Z",
+    "last_updated": "2026-08-31T20:20:51.829Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful libraries, programs, literature, and mods for ComputerCraft and its forks.",
