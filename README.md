@@ -89,9 +89,9 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 * [Mildly Better Shell (MBS)](https://github.com/SquidDev-CC/mbs) ⭐ 83 | 🐛 6 | 🌐 Lua | 📅 2023-12-08 -  An improved shell that includes scrollback and improved resolution of completions.
 * [Artist](https://github.com/SquidDev-CC/artist) ⭐ 64 | 🐛 8 | 🌐 Lua | 📅 2025-01-10 -  One of the first item management systems for ComputerCraft.
-* [CCVim](https://github.com/Minater247/CCVim/tree/rewrite-2026) ⭐ 32 | 🐛 2 | 🌐 Vim Script | 📅 2026-08-27 - A faithful port of Vim for ComputerCraft.
+* [CCVim](https://github.com/Minater247/CCVim/tree/rewrite-2026) ⭐ 32 | 🐛 2 | 🌐 Vim Script | 📅 2026-09-02 - A faithful port of Vim for ComputerCraft.
 * [`hopper.lua`](https://github.com/umnikos/hopper.lua) ⭐ 26 | 🐛 1 | 🌐 Lua | 📅 2026-08-31 - A command-line program for moving items between containers.
-* [MISC](https://github.com/Storehaus/CC-MISC) ⭐ 26 | 🐛 10 | 🌐 Lua | 📅 2026-02-08 -  Modular Inventory Storage and Crafting.
+* [MISC](https://github.com/Storehaus/CC-MISC) ⭐ 26 | 🐛 9 | 🌐 Lua | 📅 2026-02-08 -  Modular Inventory Storage and Crafting.
 * [Howl](https://github.com/SquidDev-CC/Howl) ⚠️ Archived -  A build system for CC and CC:T.
 * [netshell](https://github.com/lyqyd/cc-netshell) ⭐ 12 | 🐛 1 | 📅 2015-05-30 -  Access a computer's shell from another computer.
 * [OrangeBox](https://github.com/walksanatora/orangebox) ⭐ 8 | 🐛 1 | 🌐 Lua | 📅 2023-01-17 - Virtualization support for ComputerCraft computers.
@@ -113,7 +113,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 * [`Pixelbox Lite`](https://github.com/9551-Dev/pixelbox_lite) ⭐ 52 | 🐛 0 | 🌐 Lua | 📅 2025-03-15 - A very fast and flexible teletext 2D rendering library for ComputerCraft.
 * [Milo](https://github.com/kepler155c/opus-apps/wiki/Milo-\(crafting---storage-system\)) ⭐ 41 | 🐛 11 | 🌐 Lua | 📅 2023-09-16 -  A crafting and inventory management system. Note that this depends on OpusOS and Plethora.
 * [ecnet](https://github.com/migeyel/ecnet) ⭐ 35 | 🐛 0 | 🌐 Lua | 📅 2026-03-21 -  Secure network communications in ComputerCraft.
-* [Pine3D](https://github.com/Xella37/Pine3D) ⭐ 32 | 🐛 0 | 🌐 Lua | 📅 2024-11-12 - A 3D rendering engine designed to be fast.
+* [Pine3D](https://github.com/Xella37/Pine3D) ⭐ 33 | 🐛 0 | 🌐 Lua | 📅 2024-11-12 - A 3D rendering engine designed to be fast.
 * [Luz](https://github.com/MCJack123/Luz) ⭐ 15 | 🐛 0 | 🌐 Lua | 📅 2025-04-01 - An extremely light compression algorithm for Lua files.
 * [PngLua](https://github.com/9551-Dev/pngLua) ⭐ 15 | 🐛 0 | 🌐 Lua | 📅 2024-09-01 -  PNG parsing library designed for ComputerCraft.
 * [CC-Archive](https://github.com/MCJack123/CC-Archive) ⭐ 11 | 🐛 0 | 🌐 Lua | 📅 2026-02-07 -  Various libraries for archiving and unarchiving files.
@@ -254,7 +254,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 ### Other lists
 
-* [Awesome Lua](https://github.com/LewisJEllis/awesome-lua) ⭐ 4,564 | 🐛 49 | 📅 2024-08-11 - An Awesome list specific to the Lua programming language.
+* [Awesome Lua](https://github.com/LewisJEllis/awesome-lua) ⭐ 4,565 | 🐛 49 | 📅 2024-08-11 - An Awesome list specific to the Lua programming language.
 * [Hengestone's list of languages which compile to Lua](https://github.com/hengestone/lua-languages/blob/master/README.md) ⭐ 691 | 🐛 1 | 📅 2025-12-11 -  A list of languages which compile to Lua.
 * [Awesome CC: Tweaked](https://github.com/Shlomo1412/awesome-cctweaked) ⭐ 30 | 🐛 0 | 📅 2026-08-19 - An Awesome list which only lists things relevant to CC: Tweaked.
 * [Awesome SwitchCraft](https://github.com/aspen-reeves/awesome-switchcraft) ⚠️ Archived - An Awesome list specific to the SwitchCraft server.
@@ -275,4 +275,4 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
