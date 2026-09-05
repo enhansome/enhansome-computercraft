@@ -949,7 +949,7 @@
                 "open_issues": 14,
                 "owner": "MikaylaFischler",
                 "repo": "cc-mek-scada",
-                "stars": 573,
+                "stars": 574,
                 "topics": [
                   "cc-tweaked",
                   "comptuercraft",
@@ -1250,7 +1250,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2024-08-11T17:32:00Z",
-                "open_issues": 49,
+                "open_issues": 50,
                 "owner": "LewisJEllis",
                 "repo": "awesome-lua",
                 "stars": 4566,
@@ -1336,7 +1336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T17:45:52.433Z",
+    "last_updated": "2026-09-05T16:55:37.140Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful libraries, programs, literature, and mods for ComputerCraft and its forks.",
