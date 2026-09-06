@@ -989,7 +989,7 @@
                 "open_issues": 11,
                 "owner": "SquidDev-CC",
                 "repo": "cloud-catcher",
-                "stars": 85,
+                "stars": 86,
                 "topics": [
                   "computercraft"
                 ]
@@ -1253,7 +1253,7 @@
                 "open_issues": 50,
                 "owner": "LewisJEllis",
                 "repo": "awesome-lua",
-                "stars": 4566,
+                "stars": 4567,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
@@ -1336,7 +1336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T16:55:37.140Z",
+    "last_updated": "2026-09-06T17:19:37.428Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful libraries, programs, literature, and mods for ComputerCraft and its forks.",
