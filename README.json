@@ -539,27 +539,6 @@
             },
             {
               "node_type": "item",
-              "title": "Acidity",
-              "description": "A simple procedual world generation-oriented noise generation library.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Lua perlin noise library with octave support",
-                "homepage": null,
-                "id": 604785847,
-                "language": "Lua",
-                "license": "MIT",
-                "last_commit": "2023-10-07T22:24:51Z",
-                "open_issues": 0,
-                "owner": "9551-Dev",
-                "repo": "acidity",
-                "stars": 0,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T23:39:36.875Z"
-            },
-            {
-              "node_type": "item",
               "title": "Tamperer",
               "description": "A library allowing easy creation of settings menus.",
               "children": [],
@@ -574,6 +553,27 @@
                 "open_issues": 0,
                 "owner": "Fatboychummy-CC",
                 "repo": "Tamperer",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T23:39:36.875Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Acidity",
+              "description": "A simple procedual world generation-oriented noise generation library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Lua perlin noise library with octave support",
+                "homepage": null,
+                "id": 604785847,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2023-10-07T22:24:51Z",
+                "open_issues": 0,
+                "owner": "9551-Dev",
+                "repo": "acidity",
                 "stars": 0,
                 "topics": []
               },
@@ -763,7 +763,7 @@
                 "open_issues": 10,
                 "owner": "kepler155c",
                 "repo": "opus",
-                "stars": 199,
+                "stars": 198,
                 "topics": [
                   "computercraft",
                   "lua",
@@ -1336,7 +1336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T17:19:37.428Z",
+    "last_updated": "2026-09-07T18:50:38.933Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful libraries, programs, literature, and mods for ComputerCraft and its forks.",

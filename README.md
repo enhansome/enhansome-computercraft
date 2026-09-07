@@ -119,8 +119,8 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 * [CC-Archive](https://github.com/MCJack123/CC-Archive) ⭐ 11 | 🐛 0 | 🌐 Lua | 📅 2026-02-07 -  Various libraries for archiving and unarchiving files.
 * [Tampl](https://github.com/9551-Dev/tampl) ⭐ 3 | 🐛 0 | 🌐 Lua | 📅 2024-09-03 - A Lua tokenization and parsing library designed for dynamic code generation and injecting code into existing programs.
 * [IsometriH](https://github.com/9551-Dev/IsometriH) ⭐ 2 | 🐛 0 | 🌐 Lua | 📅 2023-08-29 -  An [isometric rendering](https://en.wikipedia.org/wiki/Isometric_video_game_graphics) engine.
+* [Tamperer](https://github.com/Fatboychummy-CC/Tamperer) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2026-02-19 -  A library allowing easy creation of settings menus.
 * [Acidity](https://github.com/9551-Dev/acidity) ⭐ 0 | 🐛 0 | 🌐 Lua | 📅 2023-10-07 -  A simple procedual world generation-oriented noise generation library.
-* [Tamperer](https://github.com/Fatboychummy-CC/Tamperer) ⭐ 0 | 🐛 0 | 🌐 Lua | 📅 2026-02-19 -  A library allowing easy creation of settings menus.
 * [Anavrins' ChaCha20](https://web.archive.org/web/20200924232302/http://www.computercraft.info/forums2/index.php?/topic/25474-chacha20-encryption-in-computercraft/) -  Implementation of [ChaCha20](https://en.wikipedia.org/wiki/ChaCha20-Poly1305). <!-- FIXME: Broken link -->
 * Anavrins' hashing libraries:
   * [MD5](https://pastebin.com/6PVSRckQ) -  Implementation of [MD5](https://en.wikipedia.org/wiki/MD5).
@@ -153,7 +153,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 ### Operating systems
 
-* [Opus](https://github.com/kepler155c/opus) ⭐ 199 | 🐛 10 | 🌐 Lua | 📅 2023-12-17 -  An OS which includes a GUI, an app store, and many system-related APIs.
+* [Opus](https://github.com/kepler155c/opus) ⭐ 198 | 🐛 10 | 🌐 Lua | 📅 2023-12-17 -  An OS which includes a GUI, an app store, and many system-related APIs.
 * [Recrafted](https://github.com/ocawesome101/recrafted) ⭐ 17 | 🐛 4 | 🌐 Lua | 📅 2026-03-20 -  A rewrite of CraftOS aiming for full feature parity while maintaining "saner API design."
 * [cOS](https://github.com/knijn/cos) ⭐ 8 | 🐛 0 | 🌐 Lua | 📅 2024-04-26 - The NixOS inspired configurable ComputerCraft OS.
 * [LevelOS](https://install.leveloper.cc) -  A modern GUI operating system intended to mimic Windows.
@@ -275,4 +275,4 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
