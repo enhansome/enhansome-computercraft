@@ -89,7 +89,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 * [Mildly Better Shell (MBS)](https://github.com/SquidDev-CC/mbs) ⭐ 83 | 🐛 6 | 🌐 Lua | 📅 2023-12-08 -  An improved shell that includes scrollback and improved resolution of completions.
 * [Artist](https://github.com/SquidDev-CC/artist) ⭐ 64 | 🐛 8 | 🌐 Lua | 📅 2025-01-10 -  One of the first item management systems for ComputerCraft.
-* [CCVim](https://github.com/Minater247/CCVim/tree/rewrite-2026) ⭐ 32 | 🐛 2 | 🌐 Vim Script | 📅 2026-09-08 - A faithful port of Vim for ComputerCraft.
+* [CCVim](https://github.com/Minater247/CCVim/tree/rewrite-2026) ⭐ 32 | 🐛 2 | 🌐 Vim Script | 📅 2026-09-09 - A faithful port of Vim for ComputerCraft.
 * [`hopper.lua`](https://github.com/umnikos/hopper.lua) ⭐ 26 | 🐛 1 | 🌐 Lua | 📅 2026-08-31 - A command-line program for moving items between containers.
 * [MISC](https://github.com/Storehaus/CC-MISC) ⭐ 26 | 🐛 9 | 🌐 Lua | 📅 2026-02-08 -  Modular Inventory Storage and Crafting.
 * [Howl](https://github.com/SquidDev-CC/Howl) ⚠️ Archived -  A build system for CC and CC:T.
@@ -142,7 +142,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 * [AUKit austream](https://github.com/MCJack123/AUKit/blob/master/austream.lua) ⭐ 43 | 🐛 2 | 🌐 Lua | 📅 2026-04-10 -  Based on AUKit, a simple audio player supporting WAV, DFPWM, AIFF, AU, and FLAC.
 * [CCDoom](https://github.com/Xella37/CCDoom) ⭐ 25 | 🐛 0 | 🌐 Lua | 📅 2023-10-19 - The [*Doom* shooter](https://en.wikipedia.org/wiki/Doom_\(1993_video_game\)) ported to ComputerCraft using Pine3D.
 * [lunatic86](https://github.com/MCJack123/lunatic86) ⭐ 19 | 🐛 0 | 🌐 Lua | 📅 2021-02-01 -  A port of an 8086 PC emulator for ComputerCraft.
-* [Musicify](https://github.com/knijn/musicify) ⭐ 13 | 🐛 9 | 🌐 Lua | 📅 2025-07-07 -  A lightweight client for playing music on ComputerCraft: Tweaked.
+* [Musicify](https://github.com/knijn/musicify) ⭐ 14 | 🐛 9 | 🌐 Lua | 📅 2025-07-07 -  A lightweight client for playing music on ComputerCraft: Tweaked.
   * [tracc](https://github.com/MCJack123/tracc/tree/playAudio) ⭐ 11 | 🐛 0 | 🌐 Lua | 📅 2026-08-18 -  An XM module tracker/player for ComputerCraft, supporting 8 channel polyphony in-game.
 * [CC-Minecraft](https://github.com/Xella37/CC-Minecraft) ⭐ 12 | 🐛 0 | 🌐 Lua | 📅 2023-10-19 - *Minecraft* ported to ComputerCraft using Pine3D.
 * [LuaGB](https://github.com/MCJack123/LuaGB) ⭐ 12 | 🐛 0 | 🌐 Lua | 📅 2025-02-02 -  A port of a Game Boy (Color) emulator for ComputerCraft. Works best in CraftOS-PC.
@@ -203,7 +203,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 ### Emulators
 
-* [Copy Cat](https://github.com/SquidDev-CC/copy-cat) ⭐ 50 | 🐛 7 | 🌐 TypeScript | 📅 2026-06-18 -  A CC:T emulator that runs in a web browser.
+* [Copy Cat](https://github.com/SquidDev-CC/copy-cat) ⭐ 51 | 🐛 7 | 🌐 TypeScript | 📅 2026-06-18 -  A CC:T emulator that runs in a web browser.
 * [CCEmuX](https://emux.cc) -  A CC and CC:T emulator which executes the mods directly.
 * [CraftOS-PC](https://www.craftos-pc.cc) -  A CC:T emulator written in C++ with the intention of speed.
 
@@ -254,7 +254,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 ### Other lists
 
-* [Awesome Lua](https://github.com/LewisJEllis/awesome-lua) ⭐ 4,566 | 🐛 50 | 📅 2024-08-11 - An Awesome list specific to the Lua programming language.
+* [Awesome Lua](https://github.com/LewisJEllis/awesome-lua) ⭐ 4,567 | 🐛 50 | 📅 2024-08-11 - An Awesome list specific to the Lua programming language.
 * [Hengestone's list of languages which compile to Lua](https://github.com/hengestone/lua-languages/blob/master/README.md) ⭐ 691 | 🐛 1 | 📅 2025-12-11 -  A list of languages which compile to Lua.
 * [Awesome CC: Tweaked](https://github.com/Shlomo1412/awesome-cctweaked) ⭐ 30 | 🐛 0 | 📅 2026-08-19 - An Awesome list which only lists things relevant to CC: Tweaked.
 * [Awesome SwitchCraft](https://github.com/aspen-reeves/awesome-switchcraft) ⚠️ Archived - An Awesome list specific to the SwitchCraft server.
@@ -275,4 +275,4 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
