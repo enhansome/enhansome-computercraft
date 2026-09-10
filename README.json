@@ -1253,7 +1253,7 @@
                 "open_issues": 50,
                 "owner": "LewisJEllis",
                 "repo": "awesome-lua",
-                "stars": 4567,
+                "stars": 4568,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
@@ -1336,7 +1336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T17:57:25.003Z",
+    "last_updated": "2026-09-10T17:49:52.795Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful libraries, programs, literature, and mods for ComputerCraft and its forks.",
@@ -1348,7 +1348,7 @@
       "open_issues": 4,
       "owner": "tomodachi94",
       "repo": "awesome-computercraft",
-      "stars": 319,
+      "stars": 318,
       "topics": [
         "awesome",
         "awesome-list",
