@@ -147,7 +147,7 @@
                 "id": 403425726,
                 "language": "Vim Script",
                 "license": null,
-                "last_commit": "2026-09-09T04:09:19Z",
+                "last_commit": "2026-09-11T08:10:46Z",
                 "open_issues": 2,
                 "owner": "Minater247",
                 "repo": "CCVim",
@@ -1253,7 +1253,7 @@
                 "open_issues": 50,
                 "owner": "LewisJEllis",
                 "repo": "awesome-lua",
-                "stars": 4568,
+                "stars": 4569,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
@@ -1296,7 +1296,7 @@
                 "id": 1042076835,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-08-19T19:07:39Z",
+                "last_commit": "2026-09-11T12:51:36Z",
                 "open_issues": 0,
                 "owner": "Shlomo1412",
                 "repo": "awesome-cctweaked",
@@ -1336,7 +1336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T17:49:52.795Z",
+    "last_updated": "2026-09-11T17:52:35.571Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful libraries, programs, literature, and mods for ComputerCraft and its forks.",
