@@ -89,7 +89,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 * [Mildly Better Shell (MBS)](https://github.com/SquidDev-CC/mbs) ⭐ 83 | 🐛 6 | 🌐 Lua | 📅 2023-12-08 -  An improved shell that includes scrollback and improved resolution of completions.
 * [Artist](https://github.com/SquidDev-CC/artist) ⭐ 64 | 🐛 8 | 🌐 Lua | 📅 2025-01-10 -  One of the first item management systems for ComputerCraft.
-* [CCVim](https://github.com/Minater247/CCVim/tree/rewrite-2026) ⭐ 32 | 🐛 2 | 🌐 Vim Script | 📅 2026-09-12 - A faithful port of Vim for ComputerCraft.
+* [CCVim](https://github.com/Minater247/CCVim/tree/rewrite-2026) ⭐ 32 | 🐛 2 | 🌐 Vim Script | 📅 2026-09-13 - A faithful port of Vim for ComputerCraft.
 * [`hopper.lua`](https://github.com/umnikos/hopper.lua) ⭐ 26 | 🐛 1 | 🌐 Lua | 📅 2026-08-31 - A command-line program for moving items between containers.
 * [MISC](https://github.com/Storehaus/CC-MISC) ⭐ 26 | 🐛 9 | 🌐 Lua | 📅 2026-02-08 -  Modular Inventory Storage and Crafting.
 * [Howl](https://github.com/SquidDev-CC/Howl) ⚠️ Archived -  A build system for CC and CC:T.
@@ -116,7 +116,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 * [Pine3D](https://github.com/Xella37/Pine3D) ⭐ 33 | 🐛 0 | 🌐 Lua | 📅 2024-11-12 - A 3D rendering engine designed to be fast.
 * [Luz](https://github.com/MCJack123/Luz) ⭐ 15 | 🐛 0 | 🌐 Lua | 📅 2025-04-01 - An extremely light compression algorithm for Lua files.
 * [PngLua](https://github.com/9551-Dev/pngLua) ⭐ 15 | 🐛 0 | 🌐 Lua | 📅 2024-09-01 -  PNG parsing library designed for ComputerCraft.
-* [CC-Archive](https://github.com/MCJack123/CC-Archive) ⭐ 11 | 🐛 0 | 🌐 Lua | 📅 2026-02-07 -  Various libraries for archiving and unarchiving files.
+* [CC-Archive](https://github.com/MCJack123/CC-Archive) ⭐ 12 | 🐛 0 | 🌐 Lua | 📅 2026-02-07 -  Various libraries for archiving and unarchiving files.
 * [Tampl](https://github.com/9551-Dev/tampl) ⭐ 3 | 🐛 0 | 🌐 Lua | 📅 2024-09-03 - A Lua tokenization and parsing library designed for dynamic code generation and injecting code into existing programs.
 * [IsometriH](https://github.com/9551-Dev/IsometriH) ⭐ 2 | 🐛 0 | 🌐 Lua | 📅 2023-08-29 -  An [isometric rendering](https://en.wikipedia.org/wiki/Isometric_video_game_graphics) engine.
 * [Tamperer](https://github.com/Fatboychummy-CC/Tamperer) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2026-02-19 -  A library allowing easy creation of settings menus.
@@ -174,7 +174,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 > Note: This section contains programs which are exclusive to a mod and would not make sense in the Utilities section.
 
-* [`cc-mek-scada`](https://github.com/MikaylaFischler/cc-mek-scada) ⭐ 574 | 🐛 14 | 🌐 Lua | 📅 2026-08-16 - Configurable control system for Mekanism fission reactors.
+* [`cc-mek-scada`](https://github.com/MikaylaFischler/cc-mek-scada) ⭐ 574 | 🐛 14 | 🌐 Lua | 📅 2026-09-13 - Configurable control system for Mekanism fission reactors.
 * [DraconicControl](https://pastebin.com/UqVHTht5) -  Allows controlling Draconic Evolution's Draconic Reactor from a computer.
 * [ReactorControl and TurbineControl](https://pastebin.com/p4zeq7Ma) -  Automatic management of reactors and turbines in Big Reactors.
   * [ReactorControl patched](https://pastebin.com/2ZrbnH5w) -  The preceeding program uses the `parallel` API recursively, which could cause it to break. A patch has been developed to fix this.
@@ -216,7 +216,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 ### Tools
 
 * [`cc-tstl-template`](https://github.com/MCJack123/cc-tstl-template) ⭐ 76 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-31 -  A template for the TypeScriptToLua compiler that allows writing ComputerCraft programs in TypeScript.
-* [sanjuuni](https://github.com/MCJack123/sanjuuni) ⭐ 65 | 🐛 13 | 🌐 C++ | 📅 2026-06-04 -  A program to quickly convert image and video files into various formats for playback and streaming in ComputerCraft.
+* [sanjuuni](https://github.com/MCJack123/sanjuuni) ⭐ 66 | 🐛 13 | 🌐 C++ | 📅 2026-06-04 -  A program to quickly convert image and video files into various formats for playback and streaming in ComputerCraft.
 * [BIMG-Generator](https://github.com/ShrekshellraiserCC/BIMG-Generator) ⭐ 6 | 🐛 2 | 🌐 Java | 📅 2025-02-18 - A Java program to convert images to the BIMG format.
 * [ComputerCraft Music Converter](https://music.madefor.cc) - A web app to convert various sound formats to DFPWM (ComputerCraft's sound format).
 * [Quartz Encoder](https://cc.alexdevs.me/index.html) - An API to convert links to audio files into DFPWM and MDFPWM.
@@ -256,7 +256,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 * [Awesome Lua](https://github.com/LewisJEllis/awesome-lua) ⭐ 4,570 | 🐛 50 | 📅 2024-08-11 - An Awesome list specific to the Lua programming language.
 * [Hengestone's list of languages which compile to Lua](https://github.com/hengestone/lua-languages/blob/master/README.md) ⭐ 691 | 🐛 1 | 📅 2025-12-11 -  A list of languages which compile to Lua.
-* [Awesome CC: Tweaked](https://github.com/Shlomo1412/awesome-cctweaked) ⭐ 30 | 🐛 0 | 📅 2026-09-11 - An Awesome list which only lists things relevant to CC: Tweaked.
+* [Awesome CC: Tweaked](https://github.com/Shlomo1412/awesome-cctweaked) ⭐ 31 | 🐛 0 | 📅 2026-09-11 - An Awesome list which only lists things relevant to CC: Tweaked.
 * [Awesome SwitchCraft](https://github.com/aspen-reeves/awesome-switchcraft) ⚠️ Archived - An Awesome list specific to the SwitchCraft server.
 
 ## Resources
@@ -275,4 +275,4 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._

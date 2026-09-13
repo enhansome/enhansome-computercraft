@@ -147,7 +147,7 @@
                 "id": 403425726,
                 "language": "Vim Script",
                 "license": null,
-                "last_commit": "2026-09-12T02:46:43Z",
+                "last_commit": "2026-09-13T00:56:24Z",
                 "open_issues": 2,
                 "owner": "Minater247",
                 "repo": "CCVim",
@@ -490,7 +490,7 @@
                 "open_issues": 0,
                 "owner": "MCJack123",
                 "repo": "CC-Archive",
-                "stars": 11,
+                "stars": 12,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
@@ -945,7 +945,7 @@
                 "id": 442578034,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-08-16T18:07:25Z",
+                "last_commit": "2026-09-13T06:11:47Z",
                 "open_issues": 14,
                 "owner": "MikaylaFischler",
                 "repo": "cc-mek-scada",
@@ -1196,7 +1196,7 @@
                 "open_issues": 13,
                 "owner": "MCJack123",
                 "repo": "sanjuuni",
-                "stars": 65,
+                "stars": 66,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
@@ -1300,7 +1300,7 @@
                 "open_issues": 0,
                 "owner": "Shlomo1412",
                 "repo": "awesome-cctweaked",
-                "stars": 30,
+                "stars": 31,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
@@ -1336,7 +1336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T17:25:02.828Z",
+    "last_updated": "2026-09-13T17:36:32.458Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful libraries, programs, literature, and mods for ComputerCraft and its forks.",
