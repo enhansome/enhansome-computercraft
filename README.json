@@ -602,7 +602,7 @@
                 "open_issues": 2,
                 "owner": "MCJack123",
                 "repo": "AUKit",
-                "stars": 43,
+                "stars": 42,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
@@ -623,7 +623,7 @@
                 "open_issues": 0,
                 "owner": "Xella37",
                 "repo": "CCDoom",
-                "stars": 25,
+                "stars": 24,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
@@ -763,7 +763,7 @@
                 "open_issues": 10,
                 "owner": "kepler155c",
                 "repo": "opus",
-                "stars": 198,
+                "stars": 197,
                 "topics": [
                   "computercraft",
                   "lua",
@@ -945,7 +945,7 @@
                 "id": 442578034,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-09-15T03:29:21Z",
+                "last_commit": "2026-09-16T17:29:49Z",
                 "open_issues": 15,
                 "owner": "MikaylaFischler",
                 "repo": "cc-mek-scada",
@@ -1253,7 +1253,7 @@
                 "open_issues": 50,
                 "owner": "LewisJEllis",
                 "repo": "awesome-lua",
-                "stars": 4570,
+                "stars": 4572,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
@@ -1336,7 +1336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T18:26:48.756Z",
+    "last_updated": "2026-09-16T18:23:31.958Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful libraries, programs, literature, and mods for ComputerCraft and its forks.",
