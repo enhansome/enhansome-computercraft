@@ -68,7 +68,7 @@
                     "open_issues": 34,
                     "owner": "SwitchCraftCC",
                     "repo": "Plethora-Fabric",
-                    "stars": 16,
+                    "stars": 17,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:36.875Z"
@@ -945,7 +945,7 @@
                 "id": 442578034,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-09-17T01:50:25Z",
+                "last_commit": "2026-09-18T01:34:32Z",
                 "open_issues": 15,
                 "owner": "MikaylaFischler",
                 "repo": "cc-mek-scada",
@@ -1061,7 +1061,7 @@
                 "open_issues": 1,
                 "owner": "tmpim",
                 "repo": "Krist",
-                "stars": 32,
+                "stars": 33,
                 "topics": [
                   "krist"
                 ]
@@ -1143,7 +1143,7 @@
                 "open_issues": 0,
                 "owner": "MCJack123",
                 "repo": "craftos2-plugins",
-                "stars": 3,
+                "stars": 4,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
@@ -1296,7 +1296,7 @@
                 "id": 1042076835,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-09-14T20:20:01Z",
+                "last_commit": "2026-09-18T10:09:09Z",
                 "open_issues": 0,
                 "owner": "Shlomo1412",
                 "repo": "awesome-cctweaked",
@@ -1336,7 +1336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T18:30:12.152Z",
+    "last_updated": "2026-09-18T17:50:22.074Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful libraries, programs, literature, and mods for ComputerCraft and its forks.",
@@ -1348,7 +1348,7 @@
       "open_issues": 4,
       "owner": "tomodachi94",
       "repo": "awesome-computercraft",
-      "stars": 318,
+      "stars": 319,
       "topics": [
         "awesome",
         "awesome-list",

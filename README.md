@@ -16,9 +16,9 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 
 **ComputerCraft** is a mod for Minecraft which adds computers which are programmable with the Lua programming language. **ComputerCraft: Tweaked** is a fork of the mod for newer Minecraft versions.
 
-This project lives [on GitHub](https://github.com/tomodachi94/awesome-computercraft) ⭐ 318 | 🐛 4 | 🌐 Just | 📅 2026-09-01 and might not render correctly on third-party websites.
+This project lives [on GitHub](https://github.com/tomodachi94/awesome-computercraft) ⭐ 319 | 🐛 4 | 🌐 Just | 📅 2026-09-01 and might not render correctly on third-party websites.
 
-If you think something should be added to the list, please [reach out](https://github.com/tomodachi94/awesome-computercraft/issues/new/choose) ⭐ 318 | 🐛 4 | 🌐 Just | 📅 2026-09-01.
+If you think something should be added to the list, please [reach out](https://github.com/tomodachi94/awesome-computercraft/issues/new/choose) ⭐ 319 | 🐛 4 | 🌐 Just | 📅 2026-09-01.
 
 If you want to contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md).
 If you have other questions, see the [FAQ](./FAQ.md).
@@ -74,7 +74,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 * [Classic Peripherals](https://modrinth.com/mod/classicperipherals) - A mod which adds various peripherals, including a Radio Tower (for long-range communication; Ender Modems are nerfed) and a Cryptographic Accelerator (providing methods for cryptographic operations).
 * [Computronics](https://wiki.vexatos.com/wiki:computronics) -  A mod which adds various peripherals, notably for detecting events in the world and for manipulation of sound.
 * [Plethora](https://plethora.madefor.cc) -  A mod which adds peripherals and allows many blocks to be accessed as such. In addition, it also allows for manipulation of the player as a peripheral.
-  * [Plethora Fabric](https://github.com/SwitchCraftCC/Plethora-Fabric) ⭐ 16 | 🐛 34 | 🌐 Kotlin | 📅 2026-03-17 - A 1.19+ port of Plethora to Fabric.
+  * [Plethora Fabric](https://github.com/SwitchCraftCC/Plethora-Fabric) ⭐ 17 | 🐛 34 | 🌐 Kotlin | 📅 2026-03-17 - A 1.19+ port of Plethora to Fabric.
 * [CC:C Bridge](https://modrinth.com/mod/cccbridge) - A mod that adds compatibility between ComputerCraft and [Create](https://modrinth.com/mod/create).
 * [Turtlematic](https://www.curseforge.com/minecraft/mc-mods/turtlematic) - A mod which expands the applications of turtles, making them extremely powerful.
 * [UnlimitedPeripheralWorks](https://www.curseforge.com/minecraft/mc-mods/unlimitedperipheralworks) - A mod which adds various peripherals to extend CC:T capabilities. Also adds a lot of peripherals for other mods.
@@ -174,7 +174,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 > Note: This section contains programs which are exclusive to a mod and would not make sense in the Utilities section.
 
-* [`cc-mek-scada`](https://github.com/MikaylaFischler/cc-mek-scada) ⭐ 575 | 🐛 15 | 🌐 Lua | 📅 2026-09-17 - Configurable control system for Mekanism fission reactors.
+* [`cc-mek-scada`](https://github.com/MikaylaFischler/cc-mek-scada) ⭐ 575 | 🐛 15 | 🌐 Lua | 📅 2026-09-18 - Configurable control system for Mekanism fission reactors.
 * [DraconicControl](https://pastebin.com/UqVHTht5) -  Allows controlling Draconic Evolution's Draconic Reactor from a computer.
 * [ReactorControl and TurbineControl](https://pastebin.com/p4zeq7Ma) -  Automatic management of reactors and turbines in Big Reactors.
   * [ReactorControl patched](https://pastebin.com/2ZrbnH5w) -  The preceeding program uses the `parallel` API recursively, which could cause it to break. A patch has been developed to fix this.
@@ -194,7 +194,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 <!-- vale Google.WordList = YES -->
 
-* [Krist Server](https://github.com/tmpim/Krist) ⭐ 32 | 🐛 1 | 🌐 TypeScript | 📅 2026-02-07 -  A server for the Krist virtual currency, intended for use with CC and CC:T.
+* [Krist Server](https://github.com/tmpim/Krist) ⭐ 33 | 🐛 1 | 🌐 TypeScript | 📅 2026-02-07 -  A server for the Krist virtual currency, intended for use with CC and CC:T.
   * [KristForge](https://github.com/tmpim/kristforge) ⚠️ Archived -  A miner for the Krist virtual currency.
   * [KristWeb2](https://github.com/tmpim/KristWeb2) ⭐ 12 | 🐛 10 | 🌐 TypeScript | 📅 2026-07-19 -  A web wallet for Krist, written in React.
 * [Netmount](https://github.com/tmpim/netmountcc) ⭐ 13 | 🐛 0 | 🌐 TypeScript | 📅 2024-07-14 - Configurable WebSocket and WebDAV remote storage solution.
@@ -209,7 +209,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 ### Plugins
 
-* [`craftos2-plugins`](https://github.com/MCJack123/craftos2-plugins) ⭐ 3 | 🐛 0 | 🌐 C++ | 📅 2025-12-06 -  A collection of small plugins for CraftOS-PC, maintained by the creator.
+* [`craftos2-plugins`](https://github.com/MCJack123/craftos2-plugins) ⭐ 4 | 🐛 0 | 🌐 C++ | 📅 2025-12-06 -  A collection of small plugins for CraftOS-PC, maintained by the creator.
 * [CraftOS-PC for VS Code](https://www.craftos-pc.cc/docs/extension) -  Extension for manipulating and running programs via CraftOS-PC in VSCode.
 * [VSCode Extensions for ComputerCraft](https://marketplace.visualstudio.com/items?itemName=lemmmy.computercraft-extension-pack) -  Self-explanatory. Contains autocomplete for CC and CC:T functions, as well as a Lua language server.
 
@@ -256,7 +256,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 * [Awesome Lua](https://github.com/LewisJEllis/awesome-lua) ⭐ 4,572 | 🐛 50 | 📅 2024-08-11 - An Awesome list specific to the Lua programming language.
 * [Hengestone's list of languages which compile to Lua](https://github.com/hengestone/lua-languages/blob/master/README.md) ⭐ 690 | 🐛 1 | 📅 2025-12-11 -  A list of languages which compile to Lua.
-* [Awesome CC: Tweaked](https://github.com/Shlomo1412/awesome-cctweaked) ⭐ 31 | 🐛 0 | 📅 2026-09-14 - An Awesome list which only lists things relevant to CC: Tweaked.
+* [Awesome CC: Tweaked](https://github.com/Shlomo1412/awesome-cctweaked) ⭐ 31 | 🐛 0 | 📅 2026-09-18 - An Awesome list which only lists things relevant to CC: Tweaked.
 * [Awesome SwitchCraft](https://github.com/aspen-reeves/awesome-switchcraft) ⚠️ Archived - An Awesome list specific to the SwitchCraft server.
 
 ## Resources
@@ -275,4 +275,4 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
