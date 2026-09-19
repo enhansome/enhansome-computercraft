@@ -216,7 +216,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 ### Tools
 
 * [`cc-tstl-template`](https://github.com/MCJack123/cc-tstl-template) ⭐ 76 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-31 -  A template for the TypeScriptToLua compiler that allows writing ComputerCraft programs in TypeScript.
-* [sanjuuni](https://github.com/MCJack123/sanjuuni) ⭐ 66 | 🐛 13 | 🌐 C++ | 📅 2026-06-04 -  A program to quickly convert image and video files into various formats for playback and streaming in ComputerCraft.
+* [sanjuuni](https://github.com/MCJack123/sanjuuni) ⭐ 67 | 🐛 13 | 🌐 C++ | 📅 2026-06-04 -  A program to quickly convert image and video files into various formats for playback and streaming in ComputerCraft.
 * [BIMG-Generator](https://github.com/ShrekshellraiserCC/BIMG-Generator) ⭐ 6 | 🐛 2 | 🌐 Java | 📅 2025-02-18 - A Java program to convert images to the BIMG format.
 * [ComputerCraft Music Converter](https://music.madefor.cc) - A web app to convert various sound formats to DFPWM (ComputerCraft's sound format).
 * [Quartz Encoder](https://cc.alexdevs.me/index.html) - An API to convert links to audio files into DFPWM and MDFPWM.
@@ -254,7 +254,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 ### Other lists
 
-* [Awesome Lua](https://github.com/LewisJEllis/awesome-lua) ⭐ 4,572 | 🐛 50 | 📅 2024-08-11 - An Awesome list specific to the Lua programming language.
+* [Awesome Lua](https://github.com/LewisJEllis/awesome-lua) ⭐ 4,573 | 🐛 50 | 📅 2024-08-11 - An Awesome list specific to the Lua programming language.
 * [Hengestone's list of languages which compile to Lua](https://github.com/hengestone/lua-languages/blob/master/README.md) ⭐ 690 | 🐛 1 | 📅 2025-12-11 -  A list of languages which compile to Lua.
 * [Awesome CC: Tweaked](https://github.com/Shlomo1412/awesome-cctweaked) ⭐ 31 | 🐛 0 | 📅 2026-09-18 - An Awesome list which only lists things relevant to CC: Tweaked.
 * [Awesome SwitchCraft](https://github.com/aspen-reeves/awesome-switchcraft) ⚠️ Archived - An Awesome list specific to the SwitchCraft server.
@@ -275,4 +275,4 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
