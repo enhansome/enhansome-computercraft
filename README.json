@@ -185,7 +185,7 @@
               "description": "Modular Inventory Storage and Crafting.",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "Modular Inventory Storage and Crafting",
                 "homepage": "https://misc.madefor.cc",
                 "id": 576359674,
@@ -623,7 +623,7 @@
                 "open_issues": 0,
                 "owner": "Xella37",
                 "repo": "CCDoom",
-                "stars": 24,
+                "stars": 23,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
@@ -1336,7 +1336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T18:35:40.663Z",
+    "last_updated": "2026-09-24T18:38:12.553Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful libraries, programs, literature, and mods for ComputerCraft and its forks.",

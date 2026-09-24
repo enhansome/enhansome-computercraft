@@ -91,7 +91,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 * [Artist](https://github.com/SquidDev-CC/artist) ⭐ 64 | 🐛 8 | 🌐 Lua | 📅 2025-01-10 -  One of the first item management systems for ComputerCraft.
 * [CCVim](https://github.com/Minater247/CCVim/tree/rewrite-2026) ⭐ 33 | 🐛 2 | 🌐 Vim Script | 📅 2026-09-13 - A faithful port of Vim for ComputerCraft.
 * [`hopper.lua`](https://github.com/umnikos/hopper.lua) ⭐ 26 | 🐛 1 | 🌐 Lua | 📅 2026-08-31 - A command-line program for moving items between containers.
-* [MISC](https://github.com/Storehaus/CC-MISC) ⭐ 26 | 🐛 9 | 🌐 Lua | 📅 2026-02-08 -  Modular Inventory Storage and Crafting.
+* [MISC](https://github.com/Storehaus/CC-MISC) ⚠️ Archived -  Modular Inventory Storage and Crafting.
 * [Howl](https://github.com/SquidDev-CC/Howl) ⚠️ Archived -  A build system for CC and CC:T.
 * [netshell](https://github.com/lyqyd/cc-netshell) ⭐ 12 | 🐛 1 | 📅 2015-05-30 -  Access a computer's shell from another computer.
 * [OrangeBox](https://github.com/walksanatora/orangebox) ⭐ 8 | 🐛 1 | 🌐 Lua | 📅 2023-01-17 - Virtualization support for ComputerCraft computers.
@@ -140,7 +140,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 ### Fun
 
 * [AUKit austream](https://github.com/MCJack123/AUKit/blob/master/austream.lua) ⭐ 42 | 🐛 2 | 🌐 Lua | 📅 2026-04-10 -  Based on AUKit, a simple audio player supporting WAV, DFPWM, AIFF, AU, and FLAC.
-* [CCDoom](https://github.com/Xella37/CCDoom) ⭐ 24 | 🐛 0 | 🌐 Lua | 📅 2023-10-19 - The [*Doom* shooter](https://en.wikipedia.org/wiki/Doom_\(1993_video_game\)) ported to ComputerCraft using Pine3D.
+* [CCDoom](https://github.com/Xella37/CCDoom) ⭐ 23 | 🐛 0 | 🌐 Lua | 📅 2023-10-19 - The [*Doom* shooter](https://en.wikipedia.org/wiki/Doom_\(1993_video_game\)) ported to ComputerCraft using Pine3D.
 * [lunatic86](https://github.com/MCJack123/lunatic86) ⭐ 19 | 🐛 0 | 🌐 Lua | 📅 2021-02-01 -  A port of an 8086 PC emulator for ComputerCraft.
 * [Musicify](https://github.com/knijn/musicify) ⭐ 14 | 🐛 9 | 🌐 Lua | 📅 2025-07-07 -  A lightweight client for playing music on ComputerCraft: Tweaked.
   * [tracc](https://github.com/MCJack123/tracc/tree/playAudio) ⭐ 11 | 🐛 0 | 🌐 Lua | 📅 2026-08-18 -  An XM module tracker/player for ComputerCraft, supporting 8 channel polyphony in-game.
@@ -275,4 +275,4 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
