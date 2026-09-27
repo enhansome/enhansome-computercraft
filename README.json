@@ -945,7 +945,7 @@
                 "id": 442578034,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-09-26T16:47:04Z",
+                "last_commit": "2026-09-26T20:39:22Z",
                 "open_issues": 16,
                 "owner": "MikaylaFischler",
                 "repo": "cc-mek-scada",
@@ -1196,7 +1196,7 @@
                 "open_issues": 13,
                 "owner": "MCJack123",
                 "repo": "sanjuuni",
-                "stars": 67,
+                "stars": 68,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
@@ -1296,7 +1296,7 @@
                 "id": 1042076835,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-09-18T10:09:09Z",
+                "last_commit": "2026-09-27T12:30:53Z",
                 "open_issues": 0,
                 "owner": "Shlomo1412",
                 "repo": "awesome-cctweaked",
@@ -1336,7 +1336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T17:57:57.415Z",
+    "last_updated": "2026-09-27T18:37:51.610Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful libraries, programs, literature, and mods for ComputerCraft and its forks.",
@@ -1348,7 +1348,7 @@
       "open_issues": 4,
       "owner": "tomodachi94",
       "repo": "awesome-computercraft",
-      "stars": 320,
+      "stars": 319,
       "topics": [
         "awesome",
         "awesome-list",
