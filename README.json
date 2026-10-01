@@ -346,7 +346,7 @@
                 "open_issues": 0,
                 "owner": "9551-Dev",
                 "repo": "pixelbox_lite",
-                "stars": 53,
+                "stars": 54,
                 "topics": [
                   "2d",
                   "cctweaked",
@@ -949,7 +949,7 @@
                 "open_issues": 16,
                 "owner": "MikaylaFischler",
                 "repo": "cc-mek-scada",
-                "stars": 577,
+                "stars": 578,
                 "topics": [
                   "cc-tweaked",
                   "comptuercraft",
@@ -1296,7 +1296,7 @@
                 "id": 1042076835,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-09-27T12:30:53Z",
+                "last_commit": "2026-10-01T12:28:39Z",
                 "open_issues": 0,
                 "owner": "Shlomo1412",
                 "repo": "awesome-cctweaked",
@@ -1336,7 +1336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T19:36:05.581Z",
+    "last_updated": "2026-10-01T19:46:40.634Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful libraries, programs, literature, and mods for ComputerCraft and its forks.",
@@ -1344,7 +1344,7 @@
       "id": 531244630,
       "language": "Just",
       "license": "CC-BY-SA-4.0",
-      "last_commit": "2026-09-01T13:40:39Z",
+      "last_commit": "2026-10-01T15:39:06Z",
       "open_issues": 4,
       "owner": "tomodachi94",
       "repo": "awesome-computercraft",
