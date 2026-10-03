@@ -16,9 +16,9 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 
 **ComputerCraft** is a mod for Minecraft which adds computers which are programmable with the Lua programming language. **ComputerCraft: Tweaked** is a fork of the mod for newer Minecraft versions.
 
-This project lives [on GitHub](https://github.com/tomodachi94/awesome-computercraft) ⭐ 319 | 🐛 4 | 🌐 Just | 📅 2026-10-01 and might not render correctly on third-party websites.
+This project lives [on GitHub](https://github.com/tomodachi94/awesome-computercraft) and might not render correctly on third-party websites.
 
-If you think something should be added to the list, please [reach out](https://github.com/tomodachi94/awesome-computercraft/issues/new/choose) ⭐ 319 | 🐛 4 | 🌐 Just | 📅 2026-10-01.
+If you think something should be added to the list, please [reach out](https://github.com/tomodachi94/awesome-computercraft/issues/new/choose).
 
 If you want to contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md).
 If you have other questions, see the [FAQ](./FAQ.md).
@@ -174,7 +174,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 > Note: This section contains programs which are exclusive to a mod and would not make sense in the Utilities section.
 
-* [`cc-mek-scada`](https://github.com/MikaylaFischler/cc-mek-scada) ⭐ 579 | 🐛 16 | 🌐 Lua | 📅 2026-09-28 - Configurable control system for Mekanism fission reactors.
+* [`cc-mek-scada`](https://github.com/MikaylaFischler/cc-mek-scada) ⭐ 580 | 🐛 16 | 🌐 Lua | 📅 2026-10-03 - Configurable control system for Mekanism fission reactors.
 * [DraconicControl](https://pastebin.com/UqVHTht5) -  Allows controlling Draconic Evolution's Draconic Reactor from a computer.
 * [ReactorControl and TurbineControl](https://pastebin.com/p4zeq7Ma) -  Automatic management of reactors and turbines in Big Reactors.
   * [ReactorControl patched](https://pastebin.com/2ZrbnH5w) -  The preceeding program uses the `parallel` API recursively, which could cause it to break. A patch has been developed to fix this.
@@ -254,7 +254,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 ### Other lists
 
-* [Awesome Lua](https://github.com/LewisJEllis/awesome-lua) ⭐ 4,579 | 🐛 50 | 📅 2024-08-11 - An Awesome list specific to the Lua programming language.
+* [Awesome Lua](https://github.com/LewisJEllis/awesome-lua) ⭐ 4,578 | 🐛 50 | 📅 2024-08-11 - An Awesome list specific to the Lua programming language.
 * [Hengestone's list of languages which compile to Lua](https://github.com/hengestone/lua-languages/blob/master/README.md) ⭐ 691 | 🐛 1 | 📅 2025-12-11 -  A list of languages which compile to Lua.
 * [Awesome CC: Tweaked](https://github.com/Shlomo1412/awesome-cctweaked) ⭐ 33 | 🐛 0 | 📅 2026-10-01 - An Awesome list which only lists things relevant to CC: Tweaked.
 * [Awesome SwitchCraft](https://github.com/aspen-reeves/awesome-switchcraft) ⚠️ Archived - An Awesome list specific to the SwitchCraft server.
@@ -275,4 +275,4 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
