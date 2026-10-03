@@ -945,8 +945,8 @@
                 "id": 442578034,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-10-03T04:01:00Z",
-                "open_issues": 16,
+                "last_commit": "2026-10-03T16:36:25Z",
+                "open_issues": 15,
                 "owner": "MikaylaFischler",
                 "repo": "cc-mek-scada",
                 "stars": 580,
@@ -1336,7 +1336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:37:39.857Z",
+    "last_updated": "2026-10-03T18:08:22.796Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful libraries, programs, literature, and mods for ComputerCraft and its forks.",
