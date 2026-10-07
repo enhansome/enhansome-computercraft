@@ -151,7 +151,7 @@
                 "open_issues": 2,
                 "owner": "Minater247",
                 "repo": "CCVim",
-                "stars": 34,
+                "stars": 36,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
@@ -763,7 +763,7 @@
                 "open_issues": 10,
                 "owner": "kepler155c",
                 "repo": "opus",
-                "stars": 199,
+                "stars": 200,
                 "topics": [
                   "computercraft",
                   "lua",
@@ -1253,7 +1253,7 @@
                 "open_issues": 50,
                 "owner": "LewisJEllis",
                 "repo": "awesome-lua",
-                "stars": 4582,
+                "stars": 4583,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
@@ -1336,7 +1336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T19:47:10.254Z",
+    "last_updated": "2026-10-07T20:07:11.440Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful libraries, programs, literature, and mods for ComputerCraft and its forks.",
@@ -1348,7 +1348,7 @@
       "open_issues": 4,
       "owner": "tomodachi94",
       "repo": "awesome-computercraft",
-      "stars": 319,
+      "stars": 320,
       "topics": [
         "awesome",
         "awesome-list",
