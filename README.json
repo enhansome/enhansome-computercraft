@@ -1274,7 +1274,7 @@
                 "open_issues": 1,
                 "owner": "hengestone",
                 "repo": "lua-languages",
-                "stars": 691,
+                "stars": 690,
                 "topics": [
                   "javascript-transpiler",
                   "lisp",
@@ -1336,7 +1336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T18:48:42.335Z",
+    "last_updated": "2026-10-11T19:08:56.134Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful libraries, programs, literature, and mods for ComputerCraft and its forks.",
