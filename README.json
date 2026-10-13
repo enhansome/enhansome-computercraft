@@ -245,7 +245,7 @@
                 "open_issues": 1,
                 "owner": "lyqyd",
                 "repo": "cc-netshell",
-                "stars": 12,
+                "stars": 13,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
@@ -346,7 +346,7 @@
                 "open_issues": 0,
                 "owner": "9551-Dev",
                 "repo": "pixelbox_lite",
-                "stars": 54,
+                "stars": 55,
                 "topics": [
                   "2d",
                   "cctweaked",
@@ -1253,7 +1253,7 @@
                 "open_issues": 49,
                 "owner": "LewisJEllis",
                 "repo": "awesome-lua",
-                "stars": 4586,
+                "stars": 4584,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
@@ -1336,7 +1336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T22:13:12.890Z",
+    "last_updated": "2026-10-13T20:19:59.731Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful libraries, programs, literature, and mods for ComputerCraft and its forks.",
