@@ -154,7 +154,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 ### Operating systems
 
 * [Opus](https://github.com/kepler155c/opus) ⭐ 200 | 🐛 10 | 🌐 Lua | 📅 2023-12-17 -  An OS which includes a GUI, an app store, and many system-related APIs.
-* [Recrafted](https://github.com/ocawesome101/recrafted) ⭐ 17 | 🐛 4 | 🌐 Lua | 📅 2026-03-20 -  A rewrite of CraftOS aiming for full feature parity while maintaining "saner API design."
+* [Recrafted](https://github.com/ocawesome101/recrafted) ⭐ 18 | 🐛 4 | 🌐 Lua | 📅 2026-03-20 -  A rewrite of CraftOS aiming for full feature parity while maintaining "saner API design."
 * [cOS](https://github.com/knijn/cos) ⭐ 8 | 🐛 0 | 🌐 Lua | 📅 2024-04-26 - The NixOS inspired configurable ComputerCraft OS.
 * [LevelOS](https://install.leveloper.cc) -  A modern GUI operating system intended to mimic Windows.
 * [Phoenix](https://phoenix.madefor.cc) -  An OS which emphasizes modularity. It implements its own kernel.
@@ -254,8 +254,8 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 ### Other lists
 
-* [Awesome Lua](https://github.com/LewisJEllis/awesome-lua) ⭐ 4,587 | 🐛 50 | 📅 2024-08-11 - An Awesome list specific to the Lua programming language.
-* [Hengestone's list of languages which compile to Lua](https://github.com/hengestone/lua-languages/blob/master/README.md) ⭐ 691 | 🐛 1 | 📅 2025-12-11 -  A list of languages which compile to Lua.
+* [Awesome Lua](https://github.com/LewisJEllis/awesome-lua) ⭐ 4,587 | 🐛 51 | 📅 2024-08-11 - An Awesome list specific to the Lua programming language.
+* [Hengestone's list of languages which compile to Lua](https://github.com/hengestone/lua-languages/blob/master/README.md) ⭐ 692 | 🐛 1 | 📅 2025-12-11 -  A list of languages which compile to Lua.
 * [Awesome CC: Tweaked](https://github.com/Shlomo1412/awesome-cctweaked) ⭐ 34 | 🐛 0 | 📅 2026-10-01 - An Awesome list which only lists things relevant to CC: Tweaked.
 * [Awesome SwitchCraft](https://github.com/aspen-reeves/awesome-switchcraft) ⚠️ Archived - An Awesome list specific to the SwitchCraft server.
 
@@ -275,4 +275,4 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._

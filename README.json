@@ -788,7 +788,7 @@
                 "open_issues": 4,
                 "owner": "Ocawesome101",
                 "repo": "recrafted",
-                "stars": 17,
+                "stars": 18,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
@@ -1250,7 +1250,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2024-08-11T17:32:00Z",
-                "open_issues": 50,
+                "open_issues": 51,
                 "owner": "LewisJEllis",
                 "repo": "awesome-lua",
                 "stars": 4587,
@@ -1274,7 +1274,7 @@
                 "open_issues": 1,
                 "owner": "hengestone",
                 "repo": "lua-languages",
-                "stars": 691,
+                "stars": 692,
                 "topics": [
                   "javascript-transpiler",
                   "lisp",
@@ -1336,7 +1336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T17:31:21.868Z",
+    "last_updated": "2026-10-19T20:08:49.223Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful libraries, programs, literature, and mods for ComputerCraft and its forks.",
@@ -1348,7 +1348,7 @@
       "open_issues": 4,
       "owner": "tomodachi94",
       "repo": "awesome-computercraft",
-      "stars": 321,
+      "stars": 322,
       "topics": [
         "awesome",
         "awesome-list",
