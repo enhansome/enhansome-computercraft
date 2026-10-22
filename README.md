@@ -74,7 +74,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 * [Classic Peripherals](https://modrinth.com/mod/classicperipherals) - A mod which adds various peripherals, including a Radio Tower (for long-range communication; Ender Modems are nerfed) and a Cryptographic Accelerator (providing methods for cryptographic operations).
 * [Computronics](https://wiki.vexatos.com/wiki:computronics) -  A mod which adds various peripherals, notably for detecting events in the world and for manipulation of sound.
 * [Plethora](https://plethora.madefor.cc) -  A mod which adds peripherals and allows many blocks to be accessed as such. In addition, it also allows for manipulation of the player as a peripheral.
-  * [Plethora Fabric](https://github.com/SwitchCraftCC/Plethora-Fabric) ⭐ 17 | 🐛 34 | 🌐 Kotlin | 📅 2026-03-17 - A 1.19+ port of Plethora to Fabric.
+  * [Plethora Fabric](https://github.com/SwitchCraftCC/Plethora-Fabric) ⭐ 17 | 🐛 33 | 🌐 Kotlin | 📅 2026-03-17 - A 1.19+ port of Plethora to Fabric.
 * [CC:C Bridge](https://modrinth.com/mod/cccbridge) - A mod that adds compatibility between ComputerCraft and [Create](https://modrinth.com/mod/create).
 * [Turtlematic](https://www.curseforge.com/minecraft/mc-mods/turtlematic) - A mod which expands the applications of turtles, making them extremely powerful.
 * [UnlimitedPeripheralWorks](https://www.curseforge.com/minecraft/mc-mods/unlimitedperipheralworks) - A mod which adds various peripherals to extend CC:T capabilities. Also adds a lot of peripherals for other mods.
@@ -275,4 +275,4 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._

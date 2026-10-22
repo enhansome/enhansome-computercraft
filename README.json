@@ -65,7 +65,7 @@
                     "language": "Kotlin",
                     "license": "MIT",
                     "last_commit": "2026-03-17T20:37:53Z",
-                    "open_issues": 34,
+                    "open_issues": 33,
                     "owner": "SwitchCraftCC",
                     "repo": "Plethora-Fabric",
                     "stars": 17,
@@ -1336,7 +1336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T18:52:11.467Z",
+    "last_updated": "2026-10-22T18:45:37.159Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful libraries, programs, literature, and mods for ComputerCraft and its forks.",
