@@ -254,7 +254,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 ### Other lists
 
-* [Awesome Lua](https://github.com/LewisJEllis/awesome-lua) ⭐ 4,587 | 🐛 51 | 📅 2024-08-11 - An Awesome list specific to the Lua programming language.
+* [Awesome Lua](https://github.com/LewisJEllis/awesome-lua) ⭐ 4,588 | 🐛 51 | 📅 2024-08-11 - An Awesome list specific to the Lua programming language.
 * [Hengestone's list of languages which compile to Lua](https://github.com/hengestone/lua-languages/blob/master/README.md) ⭐ 692 | 🐛 1 | 📅 2025-12-11 -  A list of languages which compile to Lua.
 * [Awesome CC: Tweaked](https://github.com/Shlomo1412/awesome-cctweaked) ⭐ 35 | 🐛 0 | 📅 2026-10-01 - An Awesome list which only lists things relevant to CC: Tweaked.
 * [Awesome SwitchCraft](https://github.com/aspen-reeves/awesome-switchcraft) ⚠️ Archived - An Awesome list specific to the SwitchCraft server.
@@ -275,4 +275,4 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
