@@ -346,7 +346,7 @@
                 "open_issues": 0,
                 "owner": "9551-Dev",
                 "repo": "pixelbox_lite",
-                "stars": 55,
+                "stars": 56,
                 "topics": [
                   "2d",
                   "cctweaked",
@@ -945,7 +945,7 @@
                 "id": 442578034,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-10-18T04:23:03Z",
+                "last_commit": "2026-10-25T18:07:29Z",
                 "open_issues": 15,
                 "owner": "MikaylaFischler",
                 "repo": "cc-mek-scada",
@@ -1336,7 +1336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T17:48:59.321Z",
+    "last_updated": "2026-10-26T20:06:44.191Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful libraries, programs, literature, and mods for ComputerCraft and its forks.",

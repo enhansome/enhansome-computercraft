@@ -110,7 +110,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 ### Library
 
-* [`Pixelbox Lite`](https://github.com/9551-Dev/pixelbox_lite) ⭐ 55 | 🐛 0 | 🌐 Lua | 📅 2025-03-15 - A very fast and flexible teletext 2D rendering library for ComputerCraft.
+* [`Pixelbox Lite`](https://github.com/9551-Dev/pixelbox_lite) ⭐ 56 | 🐛 0 | 🌐 Lua | 📅 2025-03-15 - A very fast and flexible teletext 2D rendering library for ComputerCraft.
 * [Milo](https://github.com/kepler155c/opus-apps/wiki/Milo-\(crafting---storage-system\)) ⭐ 41 | 🐛 11 | 🌐 Lua | 📅 2023-09-16 -  A crafting and inventory management system. Note that this depends on OpusOS and Plethora.
 * [ecnet](https://github.com/migeyel/ecnet) ⭐ 36 | 🐛 0 | 🌐 Lua | 📅 2026-03-21 -  Secure network communications in ComputerCraft.
 * [Pine3D](https://github.com/Xella37/Pine3D) ⭐ 33 | 🐛 0 | 🌐 Lua | 📅 2024-11-12 - A 3D rendering engine designed to be fast.
@@ -174,7 +174,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 > Note: This section contains programs which are exclusive to a mod and would not make sense in the Utilities section.
 
-* [`cc-mek-scada`](https://github.com/MikaylaFischler/cc-mek-scada) ⭐ 580 | 🐛 15 | 🌐 Lua | 📅 2026-10-18 - Configurable control system for Mekanism fission reactors.
+* [`cc-mek-scada`](https://github.com/MikaylaFischler/cc-mek-scada) ⭐ 580 | 🐛 15 | 🌐 Lua | 📅 2026-10-25 - Configurable control system for Mekanism fission reactors.
 * [DraconicControl](https://pastebin.com/UqVHTht5) -  Allows controlling Draconic Evolution's Draconic Reactor from a computer.
 * [ReactorControl and TurbineControl](https://pastebin.com/p4zeq7Ma) -  Automatic management of reactors and turbines in Big Reactors.
   * [ReactorControl patched](https://pastebin.com/2ZrbnH5w) -  The preceeding program uses the `parallel` API recursively, which could cause it to break. A patch has been developed to fix this.
@@ -275,4 +275,4 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
