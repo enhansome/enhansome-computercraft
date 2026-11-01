@@ -946,10 +946,10 @@
                 "language": "Lua",
                 "license": "MIT",
                 "last_commit": "2026-10-29T19:53:46Z",
-                "open_issues": 14,
+                "open_issues": 15,
                 "owner": "MikaylaFischler",
                 "repo": "cc-mek-scada",
-                "stars": 606,
+                "stars": 617,
                 "topics": [
                   "cc-tweaked",
                   "comptuercraft",
@@ -1274,7 +1274,7 @@
                 "open_issues": 1,
                 "owner": "hengestone",
                 "repo": "lua-languages",
-                "stars": 693,
+                "stars": 694,
                 "topics": [
                   "javascript-transpiler",
                   "lisp",
@@ -1336,7 +1336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T18:43:30.619Z",
+    "last_updated": "2026-11-01T19:09:18.909Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful libraries, programs, literature, and mods for ComputerCraft and its forks.",
@@ -1344,7 +1344,7 @@
       "id": 531244630,
       "language": "Just",
       "license": "CC-BY-SA-4.0",
-      "last_commit": "2026-10-01T15:39:06Z",
+      "last_commit": "2026-11-01T15:26:50Z",
       "open_issues": 4,
       "owner": "tomodachi94",
       "repo": "awesome-computercraft",
