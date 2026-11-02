@@ -549,7 +549,7 @@
                 "id": 230578585,
                 "language": "Lua",
                 "license": null,
-                "last_commit": "2026-02-19T04:09:44Z",
+                "last_commit": "2026-11-02T04:50:03Z",
                 "open_issues": 0,
                 "owner": "Fatboychummy-CC",
                 "repo": "Tamperer",
@@ -945,11 +945,11 @@
                 "id": 442578034,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-10-29T19:53:46Z",
+                "last_commit": "2026-11-01T19:33:00Z",
                 "open_issues": 15,
                 "owner": "MikaylaFischler",
                 "repo": "cc-mek-scada",
-                "stars": 617,
+                "stars": 632,
                 "topics": [
                   "cc-tweaked",
                   "comptuercraft",
@@ -1336,7 +1336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T19:09:18.909Z",
+    "last_updated": "2026-11-02T22:52:08.271Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful libraries, programs, literature, and mods for ComputerCraft and its forks.",
