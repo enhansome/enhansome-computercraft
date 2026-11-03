@@ -946,10 +946,10 @@
                 "language": "Lua",
                 "license": "MIT",
                 "last_commit": "2026-11-01T19:33:00Z",
-                "open_issues": 15,
+                "open_issues": 16,
                 "owner": "MikaylaFischler",
                 "repo": "cc-mek-scada",
-                "stars": 632,
+                "stars": 635,
                 "topics": [
                   "cc-tweaked",
                   "comptuercraft",
@@ -1336,7 +1336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T22:52:08.271Z",
+    "last_updated": "2026-11-03T20:35:47.161Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful libraries, programs, literature, and mods for ComputerCraft and its forks.",
