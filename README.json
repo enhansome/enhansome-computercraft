@@ -949,7 +949,7 @@
                 "open_issues": 17,
                 "owner": "MikaylaFischler",
                 "repo": "cc-mek-scada",
-                "stars": 647,
+                "stars": 652,
                 "topics": [
                   "cc-tweaked",
                   "comptuercraft",
@@ -1336,7 +1336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T20:31:53.839Z",
+    "last_updated": "2026-11-07T19:00:16.523Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful libraries, programs, literature, and mods for ComputerCraft and its forks.",
