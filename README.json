@@ -490,7 +490,7 @@
                 "open_issues": 0,
                 "owner": "MCJack123",
                 "repo": "CC-Archive",
-                "stars": 13,
+                "stars": 14,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
@@ -1336,7 +1336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T21:33:45.296Z",
+    "last_updated": "2026-11-13T20:58:02.841Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful libraries, programs, literature, and mods for ComputerCraft and its forks.",

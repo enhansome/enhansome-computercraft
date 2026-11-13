@@ -116,7 +116,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 * [Pine3D](https://github.com/Xella37/Pine3D) ⭐ 33 | 🐛 0 | 🌐 Lua | 📅 2024-11-12 - A 3D rendering engine designed to be fast.
 * [Luz](https://github.com/MCJack123/Luz) ⭐ 15 | 🐛 0 | 🌐 Lua | 📅 2025-04-01 - An extremely light compression algorithm for Lua files.
 * [PngLua](https://github.com/9551-Dev/pngLua) ⭐ 15 | 🐛 0 | 🌐 Lua | 📅 2024-09-01 -  PNG parsing library designed for ComputerCraft.
-* [CC-Archive](https://github.com/MCJack123/CC-Archive) ⭐ 13 | 🐛 0 | 🌐 Lua | 📅 2026-02-07 -  Various libraries for archiving and unarchiving files.
+* [CC-Archive](https://github.com/MCJack123/CC-Archive) ⭐ 14 | 🐛 0 | 🌐 Lua | 📅 2026-02-07 -  Various libraries for archiving and unarchiving files.
 * [Tampl](https://github.com/9551-Dev/tampl) ⭐ 3 | 🐛 0 | 🌐 Lua | 📅 2024-09-03 - A Lua tokenization and parsing library designed for dynamic code generation and injecting code into existing programs.
 * [IsometriH](https://github.com/9551-Dev/IsometriH) ⭐ 2 | 🐛 0 | 🌐 Lua | 📅 2023-08-29 -  An [isometric rendering](https://en.wikipedia.org/wiki/Isometric_video_game_graphics) engine.
 * [Tamperer](https://github.com/Fatboychummy-CC/Tamperer) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2026-11-02 -  A library allowing easy creation of settings menus.
@@ -275,4 +275,4 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
