@@ -90,7 +90,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 * [Mildly Better Shell (MBS)](https://github.com/SquidDev-CC/mbs) ⭐ 84 | 🐛 6 | 🌐 Lua | 📅 2023-12-08 -  An improved shell that includes scrollback and improved resolution of completions.
 * [Artist](https://github.com/SquidDev-CC/artist) ⭐ 64 | 🐛 8 | 🌐 Lua | 📅 2025-01-10 -  One of the first item management systems for ComputerCraft.
 * [CCVim](https://github.com/Minater247/CCVim/tree/rewrite-2026) ⭐ 36 | 🐛 2 | 🌐 Vim Script | 📅 2026-09-13 - A faithful port of Vim for ComputerCraft.
-* [`hopper.lua`](https://github.com/umnikos/hopper.lua) ⭐ 26 | 🐛 1 | 🌐 Lua | 📅 2026-08-31 - A command-line program for moving items between containers.
+* [`hopper.lua`](https://github.com/umnikos/hopper.lua) ⭐ 26 | 🐛 2 | 🌐 Lua | 📅 2026-08-31 - A command-line program for moving items between containers.
 * [MISC](https://github.com/Storehaus/CC-MISC) ⚠️ Archived -  Modular Inventory Storage and Crafting.
 * [Howl](https://github.com/SquidDev-CC/Howl) ⚠️ Archived -  A build system for CC and CC:T.
 * [netshell](https://github.com/lyqyd/cc-netshell) ⭐ 13 | 🐛 1 | 📅 2015-05-30 -  Access a computer's shell from another computer.
@@ -254,7 +254,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 ### Other lists
 
-* [Awesome Lua](https://github.com/LewisJEllis/awesome-lua) ⭐ 4,596 | 🐛 52 | 📅 2024-08-11 - An Awesome list specific to the Lua programming language.
+* [Awesome Lua](https://github.com/LewisJEllis/awesome-lua) ⭐ 4,594 | 🐛 52 | 📅 2024-08-11 - An Awesome list specific to the Lua programming language.
 * [Hengestone's list of languages which compile to Lua](https://github.com/hengestone/lua-languages/blob/master/README.md) ⭐ 694 | 🐛 1 | 📅 2025-12-11 -  A list of languages which compile to Lua.
 * [Awesome CC: Tweaked](https://github.com/Shlomo1412/awesome-cctweaked) ⭐ 36 | 🐛 0 | 📅 2026-11-05 - An Awesome list which only lists things relevant to CC: Tweaked.
 * [Awesome SwitchCraft](https://github.com/aspen-reeves/awesome-switchcraft) ⚠️ Archived - An Awesome list specific to the SwitchCraft server.
@@ -275,4 +275,4 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
