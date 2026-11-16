@@ -946,7 +946,7 @@
                 "language": "Lua",
                 "license": "MIT",
                 "last_commit": "2026-11-08T02:01:36Z",
-                "open_issues": 20,
+                "open_issues": 21,
                 "owner": "MikaylaFischler",
                 "repo": "cc-mek-scada",
                 "stars": 659,
@@ -1250,10 +1250,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2024-08-11T17:32:00Z",
-                "open_issues": 52,
+                "open_issues": 53,
                 "owner": "LewisJEllis",
                 "repo": "awesome-lua",
-                "stars": 4594,
+                "stars": 4595,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
@@ -1336,7 +1336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T19:55:49.339Z",
+    "last_updated": "2026-11-16T23:29:15.131Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful libraries, programs, literature, and mods for ComputerCraft and its forks.",
