@@ -153,7 +153,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 ### Operating systems
 
-* [Opus](https://github.com/kepler155c/opus) ⭐ 200 | 🐛 10 | 🌐 Lua | 📅 2023-12-17 -  An OS which includes a GUI, an app store, and many system-related APIs.
+* [Opus](https://github.com/kepler155c/opus) ⭐ 201 | 🐛 10 | 🌐 Lua | 📅 2023-12-17 -  An OS which includes a GUI, an app store, and many system-related APIs.
 * [Recrafted](https://github.com/ocawesome101/recrafted) ⭐ 18 | 🐛 4 | 🌐 Lua | 📅 2026-03-20 -  A rewrite of CraftOS aiming for full feature parity while maintaining "saner API design."
 * [cOS](https://github.com/knijn/cos) ⭐ 8 | 🐛 0 | 🌐 Lua | 📅 2024-04-26 - The NixOS inspired configurable ComputerCraft OS.
 * [LevelOS](https://install.leveloper.cc) -  A modern GUI operating system intended to mimic Windows.
@@ -255,7 +255,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 ### Other lists
 
 * [Awesome Lua](https://github.com/LewisJEllis/awesome-lua) ⭐ 4,594 | 🐛 53 | 📅 2024-08-11 - An Awesome list specific to the Lua programming language.
-* [Hengestone's list of languages which compile to Lua](https://github.com/hengestone/lua-languages/blob/master/README.md) ⭐ 694 | 🐛 1 | 📅 2025-12-11 -  A list of languages which compile to Lua.
+* [Hengestone's list of languages which compile to Lua](https://github.com/hengestone/lua-languages/blob/master/README.md) ⭐ 694 | 🐛 0 | 📅 2026-11-18 -  A list of languages which compile to Lua.
 * [Awesome CC: Tweaked](https://github.com/Shlomo1412/awesome-cctweaked) ⭐ 36 | 🐛 0 | 📅 2026-11-05 - An Awesome list which only lists things relevant to CC: Tweaked.
 * [Awesome SwitchCraft](https://github.com/aspen-reeves/awesome-switchcraft) ⚠️ Archived - An Awesome list specific to the SwitchCraft server.
 
@@ -275,4 +275,4 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._

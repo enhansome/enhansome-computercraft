@@ -763,7 +763,7 @@
                 "open_issues": 10,
                 "owner": "kepler155c",
                 "repo": "opus",
-                "stars": 200,
+                "stars": 201,
                 "topics": [
                   "computercraft",
                   "lua",
@@ -1270,8 +1270,8 @@
                 "id": 94653215,
                 "language": null,
                 "license": "MPL-2.0",
-                "last_commit": "2025-12-11T04:14:54Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-18T06:26:01Z",
+                "open_issues": 0,
                 "owner": "hengestone",
                 "repo": "lua-languages",
                 "stars": 694,
@@ -1336,7 +1336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T22:36:34.065Z",
+    "last_updated": "2026-11-18T22:16:50.242Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful libraries, programs, literature, and mods for ComputerCraft and its forks.",
