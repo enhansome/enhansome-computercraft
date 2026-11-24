@@ -151,7 +151,7 @@
                 "open_issues": 2,
                 "owner": "Minater247",
                 "repo": "CCVim",
-                "stars": 35,
+                "stars": 36,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
@@ -949,7 +949,7 @@
                 "open_issues": 25,
                 "owner": "MikaylaFischler",
                 "repo": "cc-mek-scada",
-                "stars": 661,
+                "stars": 662,
                 "topics": [
                   "cc-tweaked",
                   "comptuercraft",
@@ -1250,10 +1250,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2024-08-11T17:32:00Z",
-                "open_issues": 53,
+                "open_issues": 52,
                 "owner": "LewisJEllis",
                 "repo": "awesome-lua",
-                "stars": 4595,
+                "stars": 4596,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:36.875Z"
@@ -1274,7 +1274,7 @@
                 "open_issues": 0,
                 "owner": "hengestone",
                 "repo": "lua-languages",
-                "stars": 694,
+                "stars": 695,
                 "topics": [
                   "javascript-transpiler",
                   "lisp",
@@ -1336,7 +1336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T20:48:50.990Z",
+    "last_updated": "2026-11-24T01:51:41.415Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful libraries, programs, literature, and mods for ComputerCraft and its forks.",
