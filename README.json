@@ -1171,7 +1171,7 @@
                 "open_issues": 0,
                 "owner": "MCJack123",
                 "repo": "cc-tstl-template",
-                "stars": 77,
+                "stars": 78,
                 "topics": [
                   "computercraft",
                   "typescript",
@@ -1336,7 +1336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T23:14:50.627Z",
+    "last_updated": "2026-11-27T22:53:51.382Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful libraries, programs, literature, and mods for ComputerCraft and its forks.",
